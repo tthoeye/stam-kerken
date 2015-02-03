@@ -123,7 +123,7 @@
             
             
         <!-- Info Page: Contains info of the currently used dataset -->  
-        <div data-role="dialog" id="info">
+        <div data-role="dialog" data-close-btn="right" id="info">
             <header data-role="header">
                 <span class="ui-title">Dataset Metadata</span>	
             </header>

@@ -379,6 +379,13 @@ header.ui-header, footer.ui-footer {
   text-shadow: none;
 }
 
+.ui-dialog-contain .ui-bar-a {
+  background: white url('../images/logo.png') no-repeat !important;
+  background-position: top right !important;
+  color: red;
+  text-shadow: none;
+}
+
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
     only screen and (-o-min-device-pixel-ratio: 3/2),
     only screen and (min--moz-device-pixel-ratio: 1.5),
