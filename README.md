@@ -5,3 +5,8 @@ This is a PoC web application for the Ghent City Museum (STAM) exhibition on Imm
 
 This application is based on the CITADEL on the move - Mobile application template for Pois Of Interest template.
 For more details please consult www.citadelonthemove.eu
+=======
+stam-kerken
+===========
+
+Kerken
