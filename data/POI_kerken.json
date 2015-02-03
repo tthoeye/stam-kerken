@@ -1,0 +1,2843 @@
+{
+   "dataset":{
+      "id":1499796022,
+      "created":"2014-09-12T09:54:03+00:00",
+      "updated":"2014-09-12T09:54:03+00:00",
+      "lang":"nl-BE",
+      "author":{
+         "id":"author-id",
+         "value":"STAM"
+      },
+      "license":{
+
+      },
+      "link":{
+         "href":"",
+         "term":"source"
+      },
+      "updatefrequency":"",
+      "poi":[
+         {
+            "id":"1.0",
+            "title":"Sint-Baafskathedraal",
+            "description":"Van de romaanse kerk uit het midden van de 12e eeuw is de crypte overgebleven. In drie bouwcampagnes werd de kerk stelselmatig vervangen door de huidige: eerst het koor in de 13e en 14e eeuw, daarna de toren in Brabantse gotiek en tot besluit het schip en het transept (16e eeuw). Deze kerk was oorspronkelijk gewijd aan Sint-Jan. Vermeldingen van die parochie en bidplaats gaan terug tot 942. Na de afschaffing van de Sint-Baafsabdij werd het kapittel van de abdij in 1540 overgebracht naar de Sint-Janskerk, die dan ook Sint-Bavo als patroonheilige kreeg. In 1559 werd het bisdom Gent opgericht en werd de kerk een kathedraal.",
+            "category":[
+               "Gotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.053159 3.727167"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Baafsplein ",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Baafs-5580-82.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 11.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"12de-16de eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"2.0",
+            "title":"Sint-Jacbos",
+            "description":"In 1093 werd de Sint-Jacobsparochie opgericht, als eerste afsplitsing\\nvan de Sint-Janskerk. De oudste sporen van een kleinere kerk\\nin Doornikse kalksteen dateren uit de 12e eeuw. Door de eeuwen\\nheen werd de kerk talrijke keren verbouwd. In de 18e eeuw kreeg\\nde gotische Sint-Jacobskerk een nieuw uitzicht. De westgevel werd\\neen klokgevel en twee ondiepe zijvleugels werden aangebouwd\\nnaast de westtorens. De spitsboogvormige openingen met natuurstenen maaswerk werden vervangen door segmentboogvensters\\nmet smeedijzeren raamwerk. Deze gedaanteverwisseling werd weer\\nongedaan gemaakt tussen 1870 en 1906 met een nogal fantasierijke\\nrestauratie.",
+            "category":[
+               "Gotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.056528 3.727712"
+                  }
+               },
+               "address":{
+                  "value":"Bij Sint-Jacobs",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Jacobs-4467-68.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 18.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"Kern uit de 12e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"3.0",
+            "title":"Onze-Lieve-Vrouw",
+            "description":"Vermoedelijk stond er oorspronkelijk een romaanse kerk. In de\\n13e eeuw werd die omgebouwd in de stijl van de Scheldegotiek.\\nNadien volgden nog verschillende verbouwingen. Tussen 1887 en 1892 werd de kerk ingrijpend verbouwd onder leiding van Auguste Van Assche. Hij wou terugkeren naar het 13e-eeuws gotisch model. Tegelijk werd het schip uitgebreid en voegde hij onder meer de zuidelijke doopkapel en het traptorentje toe. Vensters kregen opnieuw een spitsboogvorm en de vlakke 17e-eeuwse zoldering werd vervangen door een houten spitstongewelf.",
+            "category":[
+               "Gotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.072483 3.675448"
+                  }
+               },
+               "address":{
+                  "value":"Mariakerkeplein",
+                  "postal":"9030.0",
+                  "city":"Mariakerke"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument, deel van een beschermd stadsgezicht",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Auguste Van Assche (Uitbreiding)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/OLV-Mariakerke-4556-58.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"Eerste vermelding in de 10e eeuw, uitbreiding 13e eeuw, verbouweingen in de 17e en 19e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"4.0",
+            "title":"Sint-Martinus",
+            "description":"De oudste delen van de kerk stammen uit het laatste kwart van de 12e eeuw. Tijdens de 16e eeuw gebeurden belangrijke verbouwingswerken: de toren werd verhoogd, er kwam een naaldspits, zijbeuken werden toegevoegd en de westgevel vernieuwd. De kerk werd zwaar beschadigd door de beeldenstormers en daarna weer hersteld. Architect de Noyette streefde bij de restauratie tussen\\n1903 en 1907 naar een herstel van de kerk in haar 16e-eeuwse\\ngotische vorm. De 17e-eeuwse ramen werden vervangen en het\\nbarokinterieur werd bijna volledig verwijderd. Enkel het koor werd in\\nzijn 17e-eeuwse toestand behouden.",
+            "category":[
+               "Gotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.050534 3.703394"
+                  }
+               },
+               "address":{
+                  "value":"Einde Were",
+                  "postal":"9000.0",
+                  "city":"Gent (Ekkergem)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Modeste de Noyette (restauratie)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintMartinusEkkergem-6828-30.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"Oudste sporen uit de 12e eeuw, nadien meerdere verbouwingen en restauraties",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"5.0",
+            "title":"Sint-Jan-Baptist",
+            "description":"Een eerste vermelding dateert van 939, maar de romaanse kern,\\neen Latijns kruis met kruisingstoren, stamt uit de 12e eeuw. Door de eeuwen heen hadden talrijke herstellings- en aanpassingswerken plaats. Tussen 1905 en 1906 werd de kerk ingrijpend gerestaureerd\\ndoor Auguste Van Assche. De zijbeuken werden heropgebouwd en de overige delen werden in romaanse stijl hersteld. De noordelijke muur van het schip, het koor en de puntgevels werden gereconstrueerd in breuksteen en voorzien van rondboogvensters.",
+            "category":[
+               "(neo)romaanse stijl"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.030943 3.668607"
+                  }
+               },
+               "address":{
+                  "value":"Afsneedorp",
+                  "postal":"9051.0",
+                  "city":"Afsnee"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Auguste Van Assche (restauratie)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"(neo)romaanse stijl",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintJanDoper-Afsnee-5002-03.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.30u of 18.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"12e eeuw, grondige resauratie 1905-1906",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"6.0",
+            "title":"Sint-Niklaas",
+            "description":"Begin 13e eeuw startte de bouw van deze nieuwe en groots opgevatte kerk in Scheldegotiek. De kerk was een eeuw later voltooid, maar werd in een continu bouwproces herhaaldelijk gewijzigd. Een deel van het schip is tegenwoordig afgescheiden met een wand en wordt gebruikt voor evenementen en tentoonstellingen. Het gebouw stond pal in het middeleeuwse handelscentrum, aan de drukke Korenmarkt en dichtbij\\nde Leiehaven. De kerk is gewijd aan de Heilige Nicolaas van Myra, de patroon van onder meer schippers en kooplieden. Als parochiekerk van verschillende handelaars en patriciërs kreeg ze ruime financiële steun. Sinds de 14e eeuw hebben verschillende ambachtslui en gilden eigen kapellen in de zijbeuken van de kerk.",
+            "category":[
+               "Gotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.053927 3.722186"
+                  }
+               },
+               "address":{
+                  "value":"Korenmarkt",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Niklaas-Korenmarkt-5727-32v.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"13e, 14e en 17e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"7.0",
+            "title":"Sint-Michiels",
+            "description":"In 1440 startte de bouw van de Sint-Michielskerk. In een eerste bouwfase werden de westpartij, het schip en het transept opgetrokken. In 1579 werd begonnen met de afbraak van het oude vroeggotische koor. Het nieuwe koor met omgang en transkapellen werd opgericht tussen 1623 en 1650 in laatgotische stijl. De toren van de Sint-Michielskerk telt twee geledingen. In 1566 vielen beeldenstormers de kerk aan en werd de bouw van de toren voor bijna 100 jaar stopgezet. Tussen 1658 en 1672 werd verder gewerkt aan de toren, maar die bleef onafgewerkt. Verschillende plannen, zoals een ontwerp voor een gotische spits door Lieven Cruyl uit 1662, werden nooit uitgevoerd. Pas in 1772 werd de toren overwelfd en rond 1825 kwam er een dak op.",
+            "category":[
+               "Gotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.053505 3.719762"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Michielsplien",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintMichiels-5681_94.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.30u en Zondag 10.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"15e tot 17e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"8.0",
+            "title":"Onze-Lieve-Vrouw Geboorte",
+            "description":"De kerk van Desteldonk is opgetrokken in de 14e eeuw en werd\\nin de 17e en 19e eeuw grondig verbouwd. De kerk werd onlangs\\ngerestaureerd. Henri Geirnaert, de architect die de restauratie leidde, studeerde aan de Sint-Lucasschool in Gent en gaf er vervolgens meer dan 50 jaar les. Van hem zijn 47 projecten bekend, vooral in Oost-Vlaanderen. De meeste hebben betrekking op de bouw, uitbreiding en restauratie van kerken. Er bestaan 7 neogotische kerken die door hem ontworpen zijn.",
+            "category":[
+               "Gotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.122040 3.781923"
+                  }
+               },
+               "address":{
+                  "value":"Desteldonkdorp",
+                  "postal":"9042.0",
+                  "city":"Desteldonk"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Het orgel is beschermd",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Henri Geirnaert (restauratie)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/OLVGeboorte-Desteldonk-6161-62-63-64.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 8.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"14e-eeuwse kern",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"9.0",
+            "title":"Heilig Kruis",
+            "description":"De oudste vermelding dateert uit 1629, maar de kern van de kerk\\ngaat terug tot de 15e eeuw. De doopkapel, de berging en sacristie\\nwerden tussen 1839–1841 toegevoegd naar een ontwerp van Louis\\nMinard. De kerkfabriek wou in 1878 de kerk vergroten, naar de\\nplannen van Edmond de Perre Montigny. Om budgettaire redenen\\nis dit echter niet doorgegaan. De Perre Montigny was architect\\nbij het provinciebestuur van Oost-Vlaanderen en heeft in de 19e\\neeuw in de provincie maar liefst 17 nieuwe kerken ontworpen en\\n6 verbouwd. Hij ontwierp zowel in neogotische, neoromaanse als\\neclectische stijl.",
+            "category":[
+               "Gotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.154778 3.825031"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Kruis-Winkeldorp",
+                  "postal":"9042.0",
+                  "city":"Sint-Kruis-Winkel"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Bechermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Louis Minard (Uitbreiding)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/H.Kruis-St.KruisWinkeldorp-6245-46.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.30u om de twee weken",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"15e-eeuwse kern",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"10.0",
+            "title":"Sint-Salvador \/ Heilig Kerst",
+            "description":"De bouw van de kerk startte in 1550 en in 1571 werd ze ingewijd.\\nTussen 1810 en 1812 kwam er een nieuwe voorgevel naar een\\nontwerp van stadsarchitect Pierre-Jean De Broe.\\nIn 1540 liet Karel V een citadel optrekken op het terrein van de\\nSint-Baafsabdij. De oude Heilig Kerstkerk uit 1072, gelegen naast\\nde abdij, werd toen ook afgebroken. Daarom werd de dienst in 1541\\novergebracht naar de kapel van het blindengesticht Sint-Salvator in\\nde Sleepstraat. Deze kapel werd kort nadien afgebroken en vervangen\\ndoor de huidige kerk.",
+            "category":[
+               "Gotiek",
+               "met neoclassicistische gevel"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.063839 3.728969"
+                  }
+               },
+               "address":{
+                  "value":"Sleepstraat",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Pierre-Jean De Broe (Westgevel",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek, met neoclassicistische gevel",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/H.Kerst-Sleepstraat-6664-65.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.30",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"16e en 19e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"11.0",
+            "title":"Onze-Lieve-Vrouw Sint-Pieters",
+            "description":"De eerste steen werd gelegd in 1629. Het centrale deel en de westgevel dateren uit de vroege 18e eeuw. In 975 stond op deze plaats al een romaanse kerk. Die werd in 1580 bijna totaal vernield door de beeldenstormers. De monniken herstelden de kerk na hun terugkeer in 1584, maar kort nadien werd het gebouw toch volledig gesloopt. De grondvesten werden als fundering gebruikt voor de nieuwe kerk. Het grondplan in de vorm van een Grieks kruis en de achtzijdige koepel zijn duidelijk geïnspireerd op de Sint-Pietersbasiliek in Rome.",
+            "category":[
+               "Barok"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.042163 3.726624"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Pietersplein ",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Barok",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/OLV-Sint-Pietersplein-7043-58.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 11.00u en 19.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"17e en 18e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"12.0",
+            "title":"Sint-Stefanus",
+            "description":"De bouw van de kerk startte in 1606 en werd voltooid in het midden\\nvan de eerste helft van de 17e eeuw. Het schip werd radicaal\\nverbouwd tussen 1653 en 1658. In 1752 werden de zijbeuken verhoogd en het interieur verfraaid. De middenbeuk en het koor brandden in 1838 uit. Jean Baptiste De Baets leidde de daaropvolgende restauratiewerken. De voor- en zijgevels werden in 1907–1908 hersteld onder leiding van architecten Henri en Valentin Vaerwyck. De kerk behoort tot het augustijnenklooster dat gesticht werd in 1296 door schenkingen van de familie Borluut, die het klooster bleef begunstigen tot in de 18e eeuw. De Sint-Ritakapel is uitgegroeid tot een zeer populair bedevaartsoord.",
+            "category":[
+               "Barok"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.060112 3.720544"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Margrietstraat",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Jean Baptiste De Baets, Henri en Valentin Vaerwyck (restauratie)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Barok",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintStefanus-Margrietstraat-6028-29-30-31.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 18.00u en zondag 10.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"17e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"13.0",
+            "title":"Sint-Antonius-Abt",
+            "description":"De geschiedenis van deze bidplaats begint in 1648 toen na het\\nwegtrekken van het Spaanse leger een barak werd aangekocht en\\ningericht als kapel. Enkele decennia later werd die kapel afgebroken\\nen bouwde men deze kerk. De sacristie en geveltoren zijn latere\\ntoevoegingen. Tot 1972 waren er woningen aangebouwd tegen de\\nkerk. Die werden onteigend en afgebroken met de bedoeling nieuwe\\nsociale woningen te bouwen. Die zijn er tot dusver niet gekomen.\\nDaardoor ligt de kerk er vandaag ietwat geïsoleerd bij.",
+            "category":[
+               "Classicerende barok"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.086955 3.726988"
+                  }
+               },
+               "address":{
+                  "value":"Redersplein",
+                  "postal":"9000.0",
+                  "city":"Gent (Meulestede) "
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Classicerende barok",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Antonius-Abt-Redersplein-6722-24.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 18.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"17e en 19e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"14.0",
+            "title":"Sint-Elisabeth",
+            "description":"De oudste sporen in de kerk dateren uit de 13e eeuw. In de periode\\n1631–1641 werden het voorportaal gebouwd en de pilaren in de middenbeuk verhoogd. Enkele decennia later herbouwde men de toren en het bovenste gedeelte van de middenbeuk. Rond 1860 speelde zich de ‘begijnhofkwestie’ af. Een liberaal-katholieke krachtmeting die in essentie ging over het zelfbeschikkingsrecht van de begijnhoven tegenover het recht van de Commissie van de Burgerlijke Godshuizen. Die mocht sinds de Franse Republiek beschikken over de goederen van de Gentse begijnhoven. De begijnen moesten het Sint-Elisabethbegijnhof in 1874 verlaten. Ze verhuisden naar een nieuw begijnhof in Sint-Amandsberg.",
+            "category":[
+               "Gotiek en barok"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.057082 3.711782"
+                  }
+               },
+               "address":{
+                  "value":"Begijnhofdries",
+                  "postal":"9000.0",
+                  "city":"Gent (Sint-Elisabethbegijnhof)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument, deel van een beschermd stadsgezicht",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Gotiek en barok",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintElisabeth-begijnhof-8713-14.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 11.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"13 eeuw, uitbreiding 17e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"15.0",
+            "title":"Onze-Lieve-Vrouw Presentatie",
+            "description":"De oudste vermelding van een bidplaats in het begijnhof van Ter\\nHoyen dateert uit 1262. Ze bevond zich ongeveer op de plaats van\\nde huidige kerk. In het midden van de 17e eeuw verkeerde het\\ngebouw in slechte staat en werd beslist een nieuwe kerk op te trekken. Twee Gentse begijnhoven staan op de Werelderfgoedlijst van\\nde UNESCO. Het begijnhof van Onze-Lieve-Vrouw Ter Hoyen is mooi\\nintact bewaard gebleven.",
+            "category":[
+               "Barok"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.045928 3.735512"
+                  }
+               },
+               "address":{
+                  "value":"Lange Vilolettenstraat",
+                  "postal":"9000.0",
+                  "city":"Gent (begijnhof Onze-Lieve-Vrouw Ter Hoyen"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument, deel van een beschermd landschap",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Barok",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/OLVPresentatie-LangeViolettastraat-8791-93.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 16.30u om de twee weken",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"17e en 18e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"16.0",
+            "title":"Sint-Catharina ",
+            "description":"De kerk werd gebouwd tussen 1683 en 1687. In 1903 werd het\\nschip verlengd. Daarvoor werd de voorgevel afgebroken en gereconstrueerd met het gerecupereerde bouwmateriaal. Ook twee\\nzijkapellen en een nieuwe sacristie werden toegevoegd. Deze kerk\\nverving een andere, 12e-eeuwse Sint-Catharinakerk, gelegen in de\\nMaïsstraat. Dat gebouw werd zwaar beschadigd tijdens godsdienstperikelen in april 1569. De ruïne werd onder het calvinistisch bewind (1577–1584) openbaar verkocht en nadien afgebroken.",
+            "category":[
+               "Barok"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.088761 3.712964"
+                  }
+               },
+               "address":{
+                  "value":"Vroonstalledries",
+                  "postal":"9032.0",
+                  "city":"Wondelgem"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Berschermd als monument, deel van een beschermd landschap",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Emile Van Hoecke-Peeters (uitbreiding)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Barok",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/StCatharina-Vroonstalledries-7312-14.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"17e eeuw, uitbreiding in 1903",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"17.0",
+            "title":"Sint-Amandus",
+            "description":"De kerk gaat terug op een 14e-eeuwse kapel. Begin 17e eeuw werd\\ndeze hersteld waarna verschillende verbouwingswerken volgden.\\nIn 1917 werd de kerk gebombardeerd en na de Eerste Wereldoorlog\\nnagenoeg volledig heropgebouwd. Rond 1350 werd op deze plaats de Sint-Laurentiuskapel ingewijd. Die werd rond 1578 aangeduid als parochiekerk van Oostakker en kreeg toen het patroonschap van de Heilige Amandus. Eind 16e eeuw werd de kerk even gebruikt voor de calvinistische eredienst, maar in 1602 werd ze opnieuw ingewijd.",
+            "category":[
+               "(neo)Barok"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.100418 3.763613"
+                  }
+               },
+               "address":{
+                  "value":"Oostakkerdorp",
+                  "postal":"9041.0",
+                  "city":"Oostakker"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Auguste Poppe (wederopbouw)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"(neo)Barok",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Amandus-Oostakker-9792-93.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"17e-eeuwse toren, kerk heropgebouwd in de 20e eeuw",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"18.0",
+            "title":"Sint-Niklaas",
+            "description":"Al in de 12e eeuw was er een kapel in Zwijnaarde. Die behoorde\\ntot de Sint-Pietersabdij. De huidige kerk werd gebouwd in 1775,\\nen vergroot in 1861 naar een ontwerp van Edmond de Perre Montigny.\\nToen werd o.m. een nieuwe toren met hoge naaldspits gebouwd.\\nIn 1918 werden de toren en de westgevel van de kerk door\\nde Duitse troepen gedynamiteerd. Tussen 1920 en 1922 werd de\\nschade hersteld. De oorspronkelijke achtkantige toren werd toen\\nvervangen door een vierkant model.",
+            "category":[
+               "Classicisme"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.000917 3.716302"
+                  }
+               },
+               "address":{
+                  "value":"Dorpsstraat",
+                  "postal":"9052.0",
+                  "city":"Zwijnaarde"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"L. De Villegas, Edmond de Perre Montigny",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Classicisme",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintNiklaas-Zwijnaarde-7765-68.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"18e eeuw en 19e eeuw (uitbreiding)",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"19.0",
+            "title":"Heilige Dionysius",
+            "description":"In 1845 werd de oude kerk van Sint-Denijs-Westrem afgebroken.\\nNog in datzelfde jaar werd gestart met de bouw van een nieuwe\\nkerk. De Heilige Dionysiuskerk heeft een goed bewaard neogotisch\\ninterieur. Vooral de muurschilderingen springen in het oog. Het interieur is recent gerestaureerd en werd in 2013 een van de laureaten van de Vlaamse Monumentenprijs.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.022930 3.670265"
+                  }
+               },
+               "address":{
+                  "value":"Kerkdreef",
+                  "postal":"9051.0",
+                  "city":"Sint-Denijs-Westrem"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Berschermd als monument, deel van een beschermd stadsgezicht",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Mathias Jozef Wolters, Jan Ghijsels",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/H.Dionysius-StDenijsWestrem-0585-600.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1845.0",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"20.0",
+            "title":"Sint-Amandus",
+            "description":"De bouw van de kerk startte in 1846 nadat eerdere plannen voor\\nde vergroting van de Sint-Amanduskapel afgewezen waren door de\\nprovinciale overheid. Het ontwerp voor een neogotische kerk aan\\nde voet van de Kapelleberg werd wel aanvaard. De plannen werden\\ngetekend door Mathias Jozef Wolters. Tussen 1932 en 1938 werd\\nde kerk uitgebreid met een kruisbeuk, koor, sacristie en doopkapel.\\nBinnenin vervingen Antoine en Jan Rooms de drie beuken door een\\neenbeukige ruimte. Daardoor ontstond er één groot geheel en werd\\nhet uitzicht op het hoogaltaar op geen enkele manier meer belemmerd. Het neogotische doksaal, de preekstoel en het koorgestoelte bleven wel behouden.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.062305 3.748657"
+                  }
+               },
+               "address":{
+                  "value":"Visitaiestraat",
+                  "postal":"9040.0",
+                  "city":"Sint-Amandsberg"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument, deel van een bescherms stadsgezicht",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Mathias Jozef Wolters, Jan Ghijsels",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Amandus-5374-75-76.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1846-1847 en 1932-1938",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"21.0",
+            "title":"Sint-Anna",
+            "description":"De eerste steen werd in 1853 gelegd door koning Leopold I. De inwijding van de nog onvoltooide kerk vond plaats in 1869. Het oorspronkelijk ontwerp van stadsarchitect Louis Roelandt werd aangepast en is in vereenvoudigde vorm terug te vinden in de definitieve plannen van Jacques Van Hoecke.\\nDe katholieke industrieel Ferdinand Lousbergs had een grote\\nfabriek aan de Reep, waar nu het Sint-Bavoinstituut staat. Hij was\\nde grote bezieler van de aanleg van de Keizer Karelstraat en de\\nbouw van de Sint-Annakerk. Als hij de straat overstak naar zijn\\nwoning, keek hij op ‘zijn’ boulevard, waarvan de Sint-Annakerk\\nmajestueus het perspectief sluit.",
+            "category":[
+               "Eclecticisme"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.048900 3.734998"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Annaplien",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument, deel van een beschermd stadsgezicht",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Louis Roeland, Jacques Van Hoecke",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Eclecticisme",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Anna-5789-94.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 16.30u om de twee weken",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1853-1869",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"22.0",
+            "title":"Sint-Martinus",
+            "description":"De oudste vermelding van een kerk in Baarle dateert uit 1025.\\nDe huidige, 19e-eeuwse kerk werd vermoedelijk gebouwd op de\\nfundering van een eenbeukig romaans kerkje met rechthoekige\\nkoorafsluiting. Het stenen hoofdaltaar en de twee stenen zijaltaren\\nwerden ontworpen door Jean-Baptiste Bethune en uitgevoerd door\\nbeeldhouwer Leopold Blanchaert. Hij voerde talrijke neogotische\\nontwerpen van Bethune uit, samen met zijn broer Leonard Blanchaert\\nen zijn schoonbroer Adrien Bressers. In Gent richtten ze onder\\nmeer de Heilig Kerstkerk in en de kerk van het begijnhof van\\nSint-Amandsberg.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.037154 3.619578"
+                  }
+               },
+               "address":{
+                  "value":"Baarledorpstraat",
+                  "postal":"9031.0",
+                  "city":"Baarle"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"F. Cardon",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintMartinus-Drongen-4766-68.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.00u of 18.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1857.0",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"23.0",
+            "title":"Sint-Gerulfus",
+            "description":"Na de omwentelingen van de Franse Revolutie werd in de 19e eeuw\\neen nieuwe kerk gebouwd tegen de bestaande toren. Later voerde\\nLouis Gildemyn nog restauraties uit aan de voorgevel en aan de\\ntoren. De Sint-Gerulfuskerk behoorde tot een abdijcomplex. In 1797\\nwerd de norbertijnengemeenschap verdreven. In 1804 opende Lieven\\nBauwens een spinnerij in de abdij. De toren en het schip van\\nde kerk behielden in die periode evenwel hun religieuze functie als\\nparochiekerk. Na de dood van Bauwens in 1822 kwam de fabriek in\\nhanden van zijn schoonbroer Frans De Vos. Hij verkocht de fabriek\\nin 1823. In 1837 kochten de jezuïeten de vleugel langs de Leie,\\nin 1850 de resterende delen van het gebouw.",
+            "category":[
+               "Neobarok"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.050140 3.663652"
+                  }
+               },
+               "address":{
+                  "value":"Drongenplein",
+                  "postal":"9031.0",
+                  "city":"Drongen"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Berscherms als monument, deel van een beschermd stadsgezicht",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"F. Cardon, Louis Gildermyn",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neobarok",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintGerulfus-Drongen-5019-5022.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 8.00u en 10.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"Toren uit 1732-1734, kerk uit 1858-1859",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"24.0",
+            "title":"Onze-Lieve-Vrouw",
+            "description":"Luchteren was oorspronkelijk een bosrijke streek. De ontwikkeling\\nals woongebied startte in de 19e eeuw in de Gavergrachtstraat.\\nDe kapel, het klooster en het woonhuis voor de priester werden\\nsamen opgetrokken in 1861. In 1867 werd de lagere school opgericht.\\nDe kapel werd vergroot in 1884. De familie Van den Bogaerde-\\nDe Lens, toen eigenaars van het nabije kasteel ‘IJzeren Hekken’,\\nfinancierden de bouw van het kloostercomplex. Dit was bedoeld als\\nonderdak voor de zusters die de weeskinderen van Drongen verzorgden.Een gedenksteen en wapenschild in de kapelgevel herinneren hieraan.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.075130 3.632687"
+                  }
+               },
+               "address":{
+                  "value":"Gavergrachtstraat",
+                  "postal":"9031.0",
+                  "city":"Drongen (Luchteren)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Leo Bavo Blanchaert",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/OLV-Gavergrachtstraat-4733-35.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.15u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1861, 1884",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"25.0",
+            "title":"Sint-Jan-Baptist",
+            "description":"De kerk werd ontworpen door Jacques Van Hoecke. Na zijn overlijden\\nen nadat een eerste constructie in 1863 was ingestort, werden\\nde plannen door zijn opvolger Leclerc-Restiaux aangepast en\\nwerd de kerk voltooid in 1866. Het interieur van de kerk was oorspronkelijk volledig polychroom beschilderd door het atelier Bressers, vermoedelijk naar een ontwerp van Jean-Baptiste Bethune,\\neen sleutelfiguur van de neogotiek in België. Onder de invloed van\\nhet Tweede Vaticaans Concilie (1962–1965) werden veel van die\\ninterieurs later in een neutrale tint overschilderd, wat ook gebeurde\\nin deze kerk.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.059130 3.704130"
+                  }
+               },
+               "address":{
+                  "value":"Emilius Seghersplein",
+                  "postal":"9000.0",
+                  "city":"Gent (Brugse Poort)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Jacques Van Hoecke, Charles Leclerc-Restiaux",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintJanBaptist-Seghersplein-0240-43.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1861-1866",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"26.0",
+            "title":"Sint-Simon en Sint-Judas",
+            "description":"Door de industrialisering groeide de bevolking van Gentbrugge\\ntussen 1865 en 1890 van 2.000 tot 9.000 inwoners. De kerkraad\\nbesliste in 1868 tot de bouw van een nieuwe kerk, ter vervanging\\nvan een 15e-eeuws vroeggotisch kerkje. Voor de nieuwe kerk werd\\nrond 1875 het Gentbruggeplein aangelegd.\\nPierre en zoon Maximilien Van Peteghem bouwden rond 1853 het\\norgel voor de oude kerk van Gentbrugge. Het verhuisde naar de huidige kerk en werd dan uitgebreid tot een orgel met twee klavieren\\nen afzonderlijke pedalen. In het jaar 2000 werd het gerestaureerd\\nen herleid tot de oorspronkelijke omvang met één klavier en aangekoppeld pedaal.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.044802 3.759042"
+                  }
+               },
+               "address":{
+                  "value":"Gentbruggeplein",
+                  "postal":"9050.0",
+                  "city":"Gentbrugge (Oud-Gentbrugge)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Het orgel is beschermd",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Ferdinand De Noyette",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/HSimonJudas-Gentbrugge-9823-34.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1868-1872",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"27.0",
+            "title":"Sint-Livinus",
+            "description":"De parochiekerk Sint-Livinus werd gebouwd tussen 1869 en 1872.\\nDe nieuwbouw verving een oude en kleinere kerk uit 1791. Die bevond\\nzich aan de Hundelgemsesteenweg, ter hoogte van de Jozef\\nVervaenestraat. Vanaf 1840 werd het gebied tussen de Brusselsesteenweg en de Hundelgemsesteenweg geürbaniseerd. Er ontstond een nieuw centrum, met voor de kerk een rechthoekig plein\\nvan waaruit diverse rechte verbindingsstraten vertrokken. In die\\nsmalle straten kwam op een paar decennia tijd een groot aantal,\\nvaak goedkope woningen.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.037164 3.741483"
+                  }
+               },
+               "address":{
+                  "value":"Ledebergplpein",
+                  "postal":"9050.0",
+                  "city":"Ledeberg"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Edmond de Perre Montigny",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintLivinus-Ledeberg-9989-91.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1869-1872",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"28.0",
+            "title":"Sint-Bavo",
+            "description":"Er is reeds sprake van een bidplaats in Mendonk in een tekst van\\n694. De kerk werd in de 17e eeuw geplunderd en herbouwd als een\\neenbeukige kapel met een houten torentje. Eind 19e eeuw kwam op\\ndezelfde plaats een nieuwe kerk, ontworpen door Edmond de Perre\\nMontigny. De kerk werd in 1944 beschoten door terugtrekkende\\nDuitse troepen. Verscheidene voltreffers veroorzaakten een hevige\\nbrand die het schip, de ingang en de toren verwoestte. Het koor,\\nde sacristie en de bergplaats bleven staan, maar waren zwaar\\nbeschadigd. De kerk werd in dezelfde stijl wederopgebouwd door\\nAdrien Bressers.",
+            "category":[
+               "Neoromaans"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.146905 3.821725"
+                  }
+               },
+               "address":{
+                  "value":"Mendonkdorp",
+                  "postal":"9042.0",
+                  "city":"Mendonk"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Edmond de Perre Montigny, Adrien Bressers",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neoromaans",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/H.Bavo-Mendonk-6772-73.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.30u om de twee weken",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1870, 1944",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"29.0",
+            "title":"Sint-Antonius van Padua",
+            "description":"Deze kapel werd gebouwd in 1871 als hulpkerk van de parochie\\nSint-Simon en Sint-Judas. In 1965 werd ze parochiekerk. De kerk\\nliep grote schade op bij een luchtaanval op 5 september 1943.\\nAlle gebrandschilderde ramen werden daarbij vernietigd. In 1947\\nwerd de kerk volledig hersteld, met toevoeging van het voorportaal.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.042340 3.745508"
+                  }
+               },
+               "address":{
+                  "value":"Louis Van Houttestraat",
+                  "postal":"9050.0",
+                  "city":"Gentbrugge (Oud-Gentbrugge)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Alphonse Vossaert",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintAntoniusvanPaduaVanHouttestr-4141-43.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 18.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1871, 1947",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"30.0",
+            "title":"Sint-Macharius",
+            "description":"In de 19e eeuw groeide de Machariuswijk snel door de aanwezigheid\\nvan de dokken, het slachthuis, de veemarkt en de stations.\\nDe refter van de voormalige Sint-Baafsabdij, die toen als parochiekerk\\ndienst deed, werd daardoor te klein. De eerste steen van de\\nSint-Machariuskerk werd gelegd op 13 juni 1880. De toren was\\npas in 1893 voltooid. De plannen voor de nieuwe Sint-Machariuskerk\\nwerden getekend door Arthur Verhaegen. Hij was van opleiding\\narchitect en een van de promotoren van de neogotiek. Verhaegen\\nwas ook een katholiek politicus. Als initiatiefnemer van de Antisocialistische Werkliedenbond in 1891 was hij een van de pioniers van de christelijke arbeidersbeweging.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.054451 3.735928"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Machariusstraat",
+                  "postal":"9000.0",
+                  "city":"Gent (Macharius)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Arthur Verhaegen (ontwerp), Eugène Nève (realisatie)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintMacarius-6533-36-45-51.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1880-1883, toren uit 1893",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"31.0",
+            "title":"Heilig Hart",
+            "description":"Sint-Amandsberg evolueerde in de 19e eeuw van land- en tuinbouwgemeente tot geïndustrialiseerd en dichtbevolkt gebied. In 1878 werd een nieuwe parochie opgericht. De eerste plannen voor de kerk waren echter te optimistisch. Om de kosten te drukken werd de witte steen van het portaal vervangen door arduin en werden het beeldhouwwerk en de brandglasramen geschrapt. Het neogotische kerkmeubilair kwam uit het atelier van Matthias Zens. Deze Duitse beeldhouwer studeerde in Gent aan de beeldhouwersschool van Jean-Baptiste Bethune. Zijn eerste grote opdracht was de binneninrichting van de Sint-Annakerk in Gent. Zijn neogotische altaren, communiebanken, kruiswegstaties, missiekruisen, preekstoelen en heiligenbeelden kenden ook internationaal succes.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.053927 3.749072"
+                  }
+               },
+               "address":{
+                  "value":"Heilig Hartplein",
+                  "postal":"9040.0",
+                  "city":"Sint-Amandsberg"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Gustave Hoste",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/HHart-HHartplein-6439-40-41.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 11.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1881-1883, toren uit 1910",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"32.0",
+            "title":"Sint-Theresia van Avila",
+            "description":"Deze kerk werd gebouwd als publieke kapel van het klooster van de\\nzusters der Kindsheid Jesu. In 1939 volgde een uitbreiding met een\\nsacristie, een doopkapel en uitgebouwde biechtstoelen. Zoals heel\\nwat kerken in de 19e eeuw maakte de kerk van Sint-Theresia van\\nAvila deel uit van een complex waartoe een klooster, pastorij en een\\nschool behoorden. Aanvankelijk was dit een hulpkerk van de Heilig\\nKerstparochie. In 1909 werd ze een zelfstandige parochiekerk.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.077049 3.730076"
+                  }
+               },
+               "address":{
+                  "value":"Meulesteedsesteenweg",
+                  "postal":"9000.0",
+                  "city":"Gent (Muide)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Het orgel is beschermd",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-TheresiaAvila-Meulesteedse-0355-566-59-61-62.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.15u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1882 en 1939",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"33.0",
+            "title":"Sint-Jozef",
+            "description":"Na de inplanting van een nieuwe woonwijk achter het Rabot in 1878,\\nwerd de bouw van een parochiekerk overwogen. Die kwam er op\\ngronden van de Gentse textielfamilie de Hemptinne, die in de buurt\\nook een grote vlasspinnerij bezaten. Architect Auguste Van Assche\\nstudeerde aan de Gentse academie, toen geleid door de architecten\\nLouis Roelandt en Adolphe Pauli. Onder invloed van Jean-Baptiste\\nBethune werd Van Assche geïnspireerd door de neogotiek. Hij legde\\nzich toe op de restauratie van middeleeuwse monumenten en de\\nbouw van kerken, vaak in Engelse, hoog-Victoriaanse stijl met veel\\npolychrome materialen.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.062850 3.709914"
+                  }
+               },
+               "address":{
+                  "value":"Wondelgemstraat",
+                  "postal":"9000.0",
+                  "city":"Gent (Rabot)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Auguste Van Assche",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/StJozefWondelgemstraat-7166-68.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 18.00u en zondag 10.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1883.0",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"34.0",
+            "title":"Sint-Eligius",
+            "description":"De kerk en de pastorie werden geschonken door de pastoor van\\nde nabijgelegen Sint-Simon en Sint-Judaskerk. In 1938 werd de\\ntoren gebouwd, met vier uurwerken. Toen werden ook het voorportaal,\\nde doopkapel en de sacristie bijgebouwd. Bij de aanstelling van\\nde eerste pastoor in 1892 was de linkerbeuk nog afgesloten met\\neen muur tussen de pilaren. Dat deel van de kerk werd toen als\\nkatholieke school gebruikt, omdat het schoolgebouw in de Jules de\\nSaint-Genoisstraat was opgeëist voor de inrichting van het officieel\\nrijksonderwijs. Later werden naast de kerk klaslokalen gebouwd.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.031539 3.762652"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Eligiusstraat",
+                  "postal":"9050.0",
+                  "city":"Gentbrugge"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"W. Vandenbogaerde (Uitbreiding)",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintEligius-Gentbrugge-6357-58.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 8.00u en 11.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1884, uitbreiding 1938",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"35.0",
+            "title":"Sint-Coleta",
+            "description":"De kerk is samen met het klooster en de school van de zusters van\\nOnze-Lieve-Vrouw Visitatie gebouwd. Door de snelle bevolkingsgroei\\nwerd Sint-Coleta al snel een autonome parochie. Het orgel van de kerk werd gebouwd door Charles Anneessens uit Geraardsbergen\\ndie ook orgels plaatste in de Sint-Salvatorkerk en in de kerk\\nvan het Sint-Barbaracollege. In het orgel van de Sint-Coletakerk zijn\\nnog enkele oude pijpen uit de 17e eeuw aanwezig. De orgelpijpen\\nwerden in neogotische stijl beschilderd.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.034624 3.726503"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Coletastraat",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Berschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Toegeschreven aan Auguste Van Assche",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Coleta-7947-53.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1888-1890",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"36.0",
+            "title":"Sint-Antonius van Padua",
+            "description":"De parochie werd gesticht op 14 mei 1896. De oorspronkelijke plannen voorzagen twee sacristieën, maar onder druk van de Commissie voor Monumenten werd er maar een gebouwd. Oorspronkelijk hoorde de Heirniswijk bij de parochie Sint-Macharius. De bouw van een nieuwe kerk werd eerst afgekeurd door de liberale meerderheid van de gemeenteraad. Een opsplitsing zou betekenen dat er twee parochies een gemeentelijke toelage moesten krijgen. De pastoor van de Sint-Machariusparochie schonk de grond en de bouw ging toch door.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.048328 3.742249"
+                  }
+               },
+               "address":{
+                  "value":"Forelstraat",
+                  "postal":"9000.0",
+                  "city":"Gent (Heimis)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"De pastorie naast de kerk is beschermd",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Henri Geirnaert ",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/StAntoniusPaduaForelstraat-4185-90.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 11.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1898.0",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"37.0",
+            "title":"Sint-Vincentius a Paulo",
+            "description":"De Bloemekenswijk ontwikkelde zich snel tussen 1900 en 1914.\\nHet centrale Edmond Van Beverenplein werd aangelegd in 1910.\\nDe parochiekerk kwam er even verderop in de Maïsstraat. De eerste\\nsteen van de kerk werd gelegd op 20 juli 1914. Toen enkele\\nweken later de Eerste Wereldoorlog uitbrak, waren de toren en de\\nmuren enkele meters hoog. De werkzaamheden werden pas hervat\\nin 1925 en de kerk werd op 28 maart 1926 in gebruik genomen.",
+            "category":[
+               "Neogotiek"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.068598 3.709130"
+                  }
+               },
+               "address":{
+                  "value":"Maïsstraat",
+                  "postal":"9000.0",
+                  "city":"Gent (Bloemekenswijk"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Henri Geirnaert",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neogotiek",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintVincentiusaPaulo-Maisstraat-0321-22.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 18.00u en zondag 10.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1914-1926",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"38.0",
+            "title":"Sint-Paulus",
+            "description":"De kerk werd gebouwd in het interbellum, maar de plannen dateerden\\nal van voor de Eerste Wereldoorlog. Een neogotisch ontwerp\\nhaalde het niet en de kerk werd uiteindelijk in neoromaanse\\nbouwstijl gebouwd. De parochie Sint-Paulus bestaat sinds 1902. Architect Henri Valcke bouwde eerst een voorlopige houten hulpkerk,\\ndie in 1905 in gebruik werd genomen. Het koor en de sacristie van\\ndie kerk waren in steen, de andere muren bestonden uit twee planken met houtzaagsel ertussen als isolatie. Henri Valcke ontwierp\\nnadien ook de huidige Sint-Pauluskerk.",
+            "category":[
+               "Neoromaans"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.039319 3.713573"
+                  }
+               },
+               "address":{
+                  "value":"Smidsestraat",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Henri Valcke",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neoromaans",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Paulus-Smidsestraat_4288-90-91.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1928-1930",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"39.0",
+            "title":"Sint-Theresia van het Kind Jezus",
+            "description":"De eerste steen van deze kerk werd gelegd op 19 september 1927\\ndoor bisschop Coppieters. Een jaar later was de kerk voltooid.\\nNa de Eerste Wereldoorlog ontwikkelde de Rooigembuurt zich\\nverder als nijverheidswijk. Meest opvallend was de bouw van ‘De\\nWerkerskolonie’, een wooncomplex aan de Brugsesteenweg voor\\n1.500 bewoners, gerealiseerd door de Maatschappij der Goedkope\\nWoningen. Onder meer om die bevolkingsgroei op te vangen werd\\nde nieuwe kerk in de Boomstraat gebouwd.",
+            "category":[
+               "Neoromaans"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.063026 3.692925"
+                  }
+               },
+               "address":{
+                  "value":"Boomstraat",
+                  "postal":"9000.0",
+                  "city":"Gent (Rooigem)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Edgard Van Hoecke-Delmarle",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neoromaans",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintTheresiaKindJezus-Boomstraat-4513-15.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1927-1928",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"40.0",
+            "title":"Onze-Lieve-Vrouw",
+            "description":"Op de Wereldtentoonstelling in Gent in 1913 werden plannen\\nvoorgesteld van Jan Rooms voor een kerk en pastorie in de wijk\\nOude Bareel. Pas na de oprichting van de nieuwe parochie in 1928\\nkwam het initiatief om een kerk te bouwen. Uiteindelijk ontwierp een\\nandere architect, Valentin Vaerwyck, het gebouw. In het architectuurtijdschrift Bâtir werd deze kerk beschreven als ‘een der meest harmonieuze landelijke kerken. Gezond, zuiver van lijn, voornaam en intiem past zij zich aan de velden en de boerderijen aan. Haar sierlijk grondplan, uitgerokken noch ineengedrongen, alsook de schikking van het interieur maken er een praktische kerk van, zonder evenwel de vriendelijke sfeer te schaden.’",
+            "category":[
+               "Interbellumstijl"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.074167 3.779572"
+                  }
+               },
+               "address":{
+                  "value":"Beelbroekstraat",
+                  "postal":"9040.0",
+                  "city":"Sint-Amandsberg (Oude Bareel)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Beschermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Valentin Vaerwyck",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Interbellumstijl",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/OLV-Beelbroekstraat-0411-12.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.45u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1932-1933",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"41.0",
+            "title":"Sint-Pieters-Buiten",
+            "description":"In 1856 werd op deze plaats een proosdij opgericht. Er kwam een\\nkerk ontworpen door Jean-Baptiste Boterdaele. Na de Eerste Wereldoorlog werden de omliggende gronden verkaveld en bleek de\\nkerk te klein. Ze werd tussen 1934 en 1937 vernieuwd en uitgebreid\\ndoor wijkbewoner Valentin Vaerwyck. In 1913 vond in deze buurt een\\nwereldtentoonstelling plaats. Op dat moment stonden op deze plaats\\nal een kerk en enkele huizen. De tentoonstellingsterreinen werden in\\neen boog daaromheen aangelegd. Vlakbij de Sint-Pietersaalststraat\\nbevond zich het onderdeel Oud-Vlaanderen, een populaire reconstructie van historische gebouwen. Die waren ook ontworpen door Valentin Vaerwyck, die later tekende voor de Sint-Pieters-Buitenkerk.",
+            "category":[
+               "Interbellumstijl"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.030011 3.716569"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Pietersaalststraat",
+                  "postal":"9000.0",
+                  "city":"Gent"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Bechermd als monument",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Valentin Vaerwyck",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Interbellumstijl",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/Sint-Pieters-Buiten-7884-85.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 10.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1934-1937",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"42.0",
+            "title":"Heilig Hart",
+            "description":"Deze kerk werd in het interbellum gebouwd als hulpkerk. Ze werd\\neen parochiekerk in 1962. De winterkapel werd in 1982 bijgebouwd.\\nBoven de ingang werd in 1972 een veelkleurig figuratief glasraam\\ngeplaatst. Het werd gemaakt door de Gentse glaskunstenaar Armand\\nBlondeel, die werd opgeleid in de Sint-Lucasschool door o.m.\\nHenri Coppejans. Andere glasramen in dit kleine kerkje zijn van het\\natelier Bressers.",
+            "category":[
+               "Interbellumstijl"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.072283 3.694828"
+                  }
+               },
+               "address":{
+                  "value":"Eeklostraat",
+                  "postal":"9030.0",
+                  "city":"Mariakerke (Kolegem)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Lucien Maes",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Interbellumstijl",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/H.Hart-Eeklostraat-4531.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 9.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1936.0",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"43.0",
+            "title":"Sint-Godelieve",
+            "description":"In 1948 kwam er een kerk in de Sint-Godelievestraat. Het gebouw\\nstortte evenwel kort daarop in. In 1950 werden de plannen voor\\neen nieuwe kerk goedgekeurd, die in 1952 werd gebouwd. De Zusters\\nMaricolen van Waasmunster financierden de bouw van de kerk.\\nZij richtten in het midden van de 19e eeuw een handwerkschool\\nvoor meisjes op in Wondelgem. In 1949 werd een nieuw schoolcomplex voor meisjesonderwijs gebouwd, waarnaast in 1952 deze kerk kwam.",
+            "category":[
+               "Neoromaans"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.078757 3.713154"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Godelievestraat",
+                  "postal":"9032.0",
+                  "city":"Wondelgem"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Onbekend",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Neoromaans",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintGodelieve-Wondelgem-7266-69.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1952.0",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"44.0",
+            "title":"Onze-Lieve-Vrouw Koningin van de Vrede",
+            "description":"Vanaf 1953 bouwden 4 sociale huisvestingsmaatschappijen de\\nwijk ‘Heldenhulde’ op het eiland Malem. Die telde 475 woningen\\ndie plaats boden aan 2.000 inwoners. De Sint-Jan-Baptistkerk lag\\nwat te ver en zou te klein worden om deze bevolkingsgroei op te\\nvangen. Daarom werd beslist een ‘annexekerk’ op te trekken in de\\nwijk. De kerk paste in het eenheidsbeeld van witte gevels en zwarte\\ndaken van de wijk, een voorbeeld van de stedenbouwkundige ideeën\\ndie in de naoorlogse periode werden verdedigd door de christendemocraten. Het ontwerp van eengezinswoningen met voortuintjes was geïnspireerd op het tuinwijkconcept uit het begin van de 20e eeuw.",
+            "category":[
+               "Landelijke stijl met neoromaanse inslag"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.052532 3.694126"
+                  }
+               },
+               "address":{
+                  "value":"Oud-Strijderslaan",
+                  "postal":"9000.0",
+                  "city":"Gent (Malem)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Gerardus Joseph Van Offeren",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Landelijke stijl met neoromaanse inslag",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/OLVKoninginVrede-Oudstrijderslaan-5086-87.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1955-1957",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"45.0",
+            "title":"Sint-Bernadette",
+            "description":"Een houten kerkje uit 1935 werd vervangen door een moderne\\nkerk, volgens plannen van architecten Leo Lefebure en André Platel.\\nDe kerk werd ingewijd op 22 november 1969. Deze kerk ligt aan\\neen tuinwijk met 241 woningen, waarvan de bouw in 1923 begon.\\nDe wijk was ontworpen door Oscar Vande Voorde in opdracht van de\\n‘Gentsche Maatschappij der Werkerswoningen’. De bevolking in de\\nwijk groeide snel aan, en dit gaf aanleiding tot de oprichting van de\\nnieuwe parochie in 1950.",
+            "category":[
+               "Naoorlogs modernisme"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.075845 3.752424"
+                  }
+               },
+               "address":{
+                  "value":"Sint-Bernadettestraat",
+                  "postal":"9000.0",
+                  "city":"Sint-Amandsberg"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Leo Lefebure en André Platel",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Naoorlogs modernisme",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/SintBernadette-6928-32-33.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zondag 11.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"Jaren 1960",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"46.0",
+            "title":"Heilig Kruis",
+            "description":"Op het Westveld werd in de jaren 1950 een volkswijk gebouwd.\\nDit was de aanleiding voor de oprichting van een nieuwe parochie\\nen de bouw van een kerk. De kerk werd ontworpen en gebouwd ten\\ntijde van het Tweede Vaticaans Concilie (1962–1965). Tijdens de\\nbouw werden daardoor de oriëntering van het altaar en de plaatsing\\nvan het tabernakel aangepast. Dit kwam links van het altaar en niet\\nmeer in het midden.",
+            "category":[
+               "Naoorlogs modernisme"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.065050 3.769888"
+                  }
+               },
+               "address":{
+                  "value":"Heilig-Kruisplein",
+                  "postal":"9040.0",
+                  "city":"Sint-Amandsberg (Westveld)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Paul Van Maele",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Naoorlogs modernisme",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/H.Kruis-H.Kruisplein-6499-6501.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 16.00u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1962-1965",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         },
+         {
+            "id":"47.0",
+            "title":"Christus Koning",
+            "description":"De wijk Nieuw Gent ontwikkelde zich vanaf de jaren 1960. De kerk\\nwerd in 1969 ingewijd. Daarrond kwamen in de jaren 1970–1980\\nverschillende woonblokken. Het kerkmeubilair en de kunstwerken\\nwaren beïnvloed door de Pro Artes-Christiana beweging. Deze stroming wou vernieuwing brengen in de religieuze kunst in Vlaanderen.",
+            "category":[
+               "Naoorlogs modernisme"
+            ],
+            "location":{
+               "point":{
+                  "term":"centroid",
+                  "pos":{
+                     "srsName":"http:\/\/www.opengis.net\/def\/crs\/EPSG\/0\/4326",
+                     "posList":"51.023062 3.718799"
+                  }
+               },
+               "address":{
+                  "value":"Rerum-Novarumplein",
+                  "postal":"9000.0",
+                  "city":"Gent (Nieuw Gent)"
+               }
+            },
+            "attribute":[
+               {
+                  "term":"Website",
+                  "type":"url",
+                  "text":"Geen",
+                  "tplIdentifier":"#Citadel_website"
+               },
+               {
+                  "term":"Email",
+                  "type":"email",
+                  "text":"Jean Gilson en Adrien Bressens",
+                  "tplIdentifier":"#Citadel_email"
+               },
+               {
+                  "term":"Telephone",
+                  "type":"tel",
+                  "text":"Naoorlogs modernisme",
+                  "tplIdentifier":"#Citadel_telephone"
+               },
+               {
+                  "term":"Image",
+                  "type":"url",
+                  "text":"images\/ChristusKoning-RerumNorvarumplein-7667-68-70-74-79-81.jpg",
+                  "tplIdentifier":"#Citadel_image"
+               },
+               {
+                  "term":"Video",
+                  "type":"url",
+                  "text":"Zaterdag 17.30u",
+                  "tplIdentifier":"#Citadel_video"
+               },
+               {
+                  "term":"Park type",
+                  "type":"string",
+                  "text":"1960-1969",
+                  "tplIdentifier":"#Citadel_parkType"
+               }
+            ]
+         }
+      ]
+   }
+}
