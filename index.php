@@ -115,8 +115,7 @@
             </div><!--list-container-->
                 
             <footer data-role="footer" data-posistion="fixed" data-fullscreen="true">
-                <a href="" id="addFav" data-icon="star" data-theme="a" title="Add to favourites" data-rel="star" class="ui-btn-center">Toevoegen aan favorieten</a>
-                <a href="" id="removeFav" data-icon="star" data-theme="a" title="Remove from favourites" data-rel="star" class="ui-btn-center">Verwijderen uit favorieten</a>
+                <a href="#page2" id="back" data-icon="back" data-theme="a" title="Terug naar overzicht" class="ui-btn-center">Terug naar overzicht</a>
             </footer>
                 
         </div><!-- /page -->
