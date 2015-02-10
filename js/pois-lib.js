@@ -132,6 +132,7 @@ function addMarkers()
  */
 
 function getMarkerImage(category) {
+    /*
     var coloredMarkers = new Array();
 
     for (var j = 0; j < 10; j++) {
@@ -143,6 +144,8 @@ function getMarkerImage(category) {
             return coloredMarkers[i % 10];
         }
     }
+    */
+    return 'images/kerk.png';
 }
 
 

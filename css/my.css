@@ -432,32 +432,12 @@ header.ui-bar-a {
 /*Overload jquery ui css*/
 
 /* Load pin images as data uris */
-.pin0 {
-    width: 43px;
-    height: 44px;
+.pin0, .pin1, .pin2, .pin3, .pin4, .pin5, .pin6, .pin7, .pin8, .pin9 {
+    width: 38x;
+    height: 60px;
     background-repeat: no-repeat;
-    background-image: url("http://www.blijvenplakkeningent.be/sites/all/themes/stam/img/marker-icon.png");
+    background-image: url("http://www.toegent.be/kerken/images/kerk.png");
 }
-
-.pin1 {
-    width: 43px;
-    height: 44px;
-    background-repeat: no-repeat;
-    background-image: url("http://www.blijvenplakkeningent.be/sites/all/themes/stam/img/marker-icon.png");
-}
-.pin2 {
-    width: 43px;
-    height: 44px;
-    background-repeat: no-repeat;
-    background-image: url("http://www.blijvenplakkeningent.be/sites/all/themes/stam/img/marker-icon.png");
-}
-.pin3 {
-    width: 43px;
-    height: 44px;
-    background-repeat: no-repeat;
-    background-image: url("http://www.blijvenplakkeningent.be/sites/all/themes/stam/img/marker-icon.png");
-}
-
 .star {
     width: 43px;
     height: 43px;
