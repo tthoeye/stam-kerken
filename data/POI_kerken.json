@@ -34,7 +34,7 @@
                },
                "address":{
                   "value":"Sint-Baafsplein ",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -79,8 +79,8 @@
          },
          {
             "id":"2.0",
-            "title":"Sint-Jacbos",
-            "description":"In 1093 werd de Sint-Jacobsparochie opgericht, als eerste afsplitsing\\nvan de Sint-Janskerk. De oudste sporen van een kleinere kerk\\nin Doornikse kalksteen dateren uit de 12e eeuw. Door de eeuwen\\nheen werd de kerk talrijke keren verbouwd. In de 18e eeuw kreeg\\nde gotische Sint-Jacobskerk een nieuw uitzicht. De westgevel werd\\neen klokgevel en twee ondiepe zijvleugels werden aangebouwd\\nnaast de westtorens. De spitsboogvormige openingen met natuurstenen maaswerk werden vervangen door segmentboogvensters\\nmet smeedijzeren raamwerk. Deze gedaanteverwisseling werd weer\\nongedaan gemaakt tussen 1870 en 1906 met een nogal fantasierijke\\nrestauratie.",
+            "title":"Sint-Jacobs",
+            "description":"In 1093 werd de Sint-Jacobsparochie opgericht, als eerste afsplitsing van de Sint-Janskerk. De oudste sporen van een kleinere kerk in Doornikse kalksteen dateren uit de 12e eeuw. Door de eeuwen heen werd de kerk talrijke keren verbouwd. In de 18e eeuw kreeg de gotische Sint-Jacobskerk een nieuw uitzicht. De westgevel werd een klokgevel en twee ondiepe zijvleugels werden aangebouwd naast de westtorens. De spitsboogvormige openingen met natuurstenen maaswerk werden vervangen door segmentboogvensters met smeedijzeren raamwerk. Deze gedaanteverwisseling werd weer ongedaan gemaakt tussen 1870 en 1906 met een nogal fantasierijke restauratie.",
             "category":[
                "Gotiek"
             ],
@@ -94,7 +94,7 @@
                },
                "address":{
                   "value":"Bij Sint-Jacobs",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -140,7 +140,7 @@
          {
             "id":"3.0",
             "title":"Onze-Lieve-Vrouw",
-            "description":"Vermoedelijk stond er oorspronkelijk een romaanse kerk. In de\\n13e eeuw werd die omgebouwd in de stijl van de Scheldegotiek.\\nNadien volgden nog verschillende verbouwingen. Tussen 1887 en 1892 werd de kerk ingrijpend verbouwd onder leiding van Auguste Van Assche. Hij wou terugkeren naar het 13e-eeuws gotisch model. Tegelijk werd het schip uitgebreid en voegde hij onder meer de zuidelijke doopkapel en het traptorentje toe. Vensters kregen opnieuw een spitsboogvorm en de vlakke 17e-eeuwse zoldering werd vervangen door een houten spitstongewelf.",
+            "description":"Vermoedelijk stond er oorspronkelijk een romaanse kerk. In de 13e eeuw werd die omgebouwd in de stijl van de Scheldegotiek. Nadien volgden nog verschillende verbouwingen. Tussen 1887 en 1892 werd de kerk ingrijpend verbouwd onder leiding van Auguste Van Assche. Hij wou terugkeren naar het 13e-eeuws gotisch model. Tegelijk werd het schip uitgebreid en voegde hij onder meer de zuidelijke doopkapel en het traptorentje toe. Vensters kregen opnieuw een spitsboogvorm en de vlakke 17e-eeuwse zoldering werd vervangen door een houten spitstongewelf.",
             "category":[
                "Gotiek"
             ],
@@ -200,7 +200,7 @@
          {
             "id":"4.0",
             "title":"Sint-Martinus",
-            "description":"De oudste delen van de kerk stammen uit het laatste kwart van de 12e eeuw. Tijdens de 16e eeuw gebeurden belangrijke verbouwingswerken: de toren werd verhoogd, er kwam een naaldspits, zijbeuken werden toegevoegd en de westgevel vernieuwd. De kerk werd zwaar beschadigd door de beeldenstormers en daarna weer hersteld. Architect de Noyette streefde bij de restauratie tussen\\n1903 en 1907 naar een herstel van de kerk in haar 16e-eeuwse\\ngotische vorm. De 17e-eeuwse ramen werden vervangen en het\\nbarokinterieur werd bijna volledig verwijderd. Enkel het koor werd in\\nzijn 17e-eeuwse toestand behouden.",
+            "description":"De oudste delen van de kerk stammen uit het laatste kwart van de 12e eeuw. Tijdens de 16e eeuw gebeurden belangrijke verbouwingswerken: de toren werd verhoogd, er kwam een naaldspits, zijbeuken werden toegevoegd en de westgevel vernieuwd. De kerk werd zwaar beschadigd door de beeldenstormers en daarna weer hersteld. Architect de Noyette streefde bij de restauratie tussen 1903 en 1907 naar een herstel van de kerk in haar 16e-eeuwse gotische vorm. De 17e-eeuwse ramen werden vervangen en het barokinterieur werd bijna volledig verwijderd. Enkel het koor werd in zijn 17e-eeuwse toestand behouden.",
             "category":[
                "Gotiek"
             ],
@@ -214,7 +214,7 @@
                },
                "address":{
                   "value":"Einde Were",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Ekkergem)"
                }
             },
@@ -260,7 +260,7 @@
          {
             "id":"5.0",
             "title":"Sint-Jan-Baptist",
-            "description":"Een eerste vermelding dateert van 939, maar de romaanse kern,\\neen Latijns kruis met kruisingstoren, stamt uit de 12e eeuw. Door de eeuwen heen hadden talrijke herstellings- en aanpassingswerken plaats. Tussen 1905 en 1906 werd de kerk ingrijpend gerestaureerd\\ndoor Auguste Van Assche. De zijbeuken werden heropgebouwd en de overige delen werden in romaanse stijl hersteld. De noordelijke muur van het schip, het koor en de puntgevels werden gereconstrueerd in breuksteen en voorzien van rondboogvensters.",
+            "description":"Een eerste vermelding dateert van 939, maar de romaanse kern, een Latijns kruis met kruisingstoren, stamt uit de 12e eeuw. Door de eeuwen heen hadden talrijke herstellings- en aanpassingswerken plaats. Tussen 1905 en 1906 werd de kerk ingrijpend gerestaureerd door Auguste Van Assche. De zijbeuken werden heropgebouwd en de overige delen werden in romaanse stijl hersteld. De noordelijke muur van het schip, het koor en de puntgevels werden gereconstrueerd in breuksteen en voorzien van rondboogvensters.",
             "category":[
                "(neo)romaanse stijl"
             ],
@@ -320,7 +320,7 @@
          {
             "id":"6.0",
             "title":"Sint-Niklaas",
-            "description":"Begin 13e eeuw startte de bouw van deze nieuwe en groots opgevatte kerk in Scheldegotiek. De kerk was een eeuw later voltooid, maar werd in een continu bouwproces herhaaldelijk gewijzigd. Een deel van het schip is tegenwoordig afgescheiden met een wand en wordt gebruikt voor evenementen en tentoonstellingen. Het gebouw stond pal in het middeleeuwse handelscentrum, aan de drukke Korenmarkt en dichtbij\\nde Leiehaven. De kerk is gewijd aan de Heilige Nicolaas van Myra, de patroon van onder meer schippers en kooplieden. Als parochiekerk van verschillende handelaars en patriciërs kreeg ze ruime financiële steun. Sinds de 14e eeuw hebben verschillende ambachtslui en gilden eigen kapellen in de zijbeuken van de kerk.",
+            "description":"Begin 13e eeuw startte de bouw van deze nieuwe en groots opgevatte kerk in Scheldegotiek. De kerk was een eeuw later voltooid, maar werd in een continu bouwproces herhaaldelijk gewijzigd. Een deel van het schip is tegenwoordig afgescheiden met een wand en wordt gebruikt voor evenementen en tentoonstellingen. Het gebouw stond pal in het middeleeuwse handelscentrum, aan de drukke Korenmarkt en dichtbij de Leiehaven. De kerk is gewijd aan de Heilige Nicolaas van Myra, de patroon van onder meer schippers en kooplieden. Als parochiekerk van verschillende handelaars en patriciërs kreeg ze ruime financiële steun. Sinds de 14e eeuw hebben verschillende ambachtslui en gilden eigen kapellen in de zijbeuken van de kerk.",
             "category":[
                "Gotiek"
             ],
@@ -334,7 +334,7 @@
                },
                "address":{
                   "value":"Korenmarkt",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -394,7 +394,7 @@
                },
                "address":{
                   "value":"Sint-Michielsplien",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -440,7 +440,7 @@
          {
             "id":"8.0",
             "title":"Onze-Lieve-Vrouw Geboorte",
-            "description":"De kerk van Desteldonk is opgetrokken in de 14e eeuw en werd\\nin de 17e en 19e eeuw grondig verbouwd. De kerk werd onlangs\\ngerestaureerd. Henri Geirnaert, de architect die de restauratie leidde, studeerde aan de Sint-Lucasschool in Gent en gaf er vervolgens meer dan 50 jaar les. Van hem zijn 47 projecten bekend, vooral in Oost-Vlaanderen. De meeste hebben betrekking op de bouw, uitbreiding en restauratie van kerken. Er bestaan 7 neogotische kerken die door hem ontworpen zijn.",
+            "description":"De kerk van Desteldonk is opgetrokken in de 14e eeuw en werd in de 17e en 19e eeuw grondig verbouwd. De kerk werd onlangs gerestaureerd. Henri Geirnaert, de architect die de restauratie leidde, studeerde aan de Sint-Lucasschool in Gent en gaf er vervolgens meer dan 50 jaar les. Van hem zijn 47 projecten bekend, vooral in Oost-Vlaanderen. De meeste hebben betrekking op de bouw, uitbreiding en restauratie van kerken. Er bestaan 7 neogotische kerken die door hem ontworpen zijn.",
             "category":[
                "Gotiek"
             ],
@@ -500,7 +500,7 @@
          {
             "id":"9.0",
             "title":"Heilig Kruis",
-            "description":"De oudste vermelding dateert uit 1629, maar de kern van de kerk\\ngaat terug tot de 15e eeuw. De doopkapel, de berging en sacristie\\nwerden tussen 1839–1841 toegevoegd naar een ontwerp van Louis\\nMinard. De kerkfabriek wou in 1878 de kerk vergroten, naar de\\nplannen van Edmond de Perre Montigny. Om budgettaire redenen\\nis dit echter niet doorgegaan. De Perre Montigny was architect\\nbij het provinciebestuur van Oost-Vlaanderen en heeft in de 19e\\neeuw in de provincie maar liefst 17 nieuwe kerken ontworpen en\\n6 verbouwd. Hij ontwierp zowel in neogotische, neoromaanse als\\neclectische stijl.",
+            "description":"De oudste vermelding dateert uit 1629, maar de kern van de kerk gaat terug tot de 15e eeuw. De doopkapel, de berging en sacristie werden tussen 1839–1841 toegevoegd naar een ontwerp van Louis Minard. De kerkfabriek wou in 1878 de kerk vergroten, naar de plannen van Edmond de Perre Montigny. Om budgettaire redenen is dit echter niet doorgegaan. De Perre Montigny was architect bij het provinciebestuur van Oost-Vlaanderen en heeft in de 19e eeuw in de provincie maar liefst 17 nieuwe kerken ontworpen en 6 verbouwd. Hij ontwierp zowel in neogotische, neoromaanse als eclectische stijl.",
             "category":[
                "Gotiek"
             ],
@@ -560,7 +560,7 @@
          {
             "id":"10.0",
             "title":"Sint-Salvador \/ Heilig Kerst",
-            "description":"De bouw van de kerk startte in 1550 en in 1571 werd ze ingewijd.\\nTussen 1810 en 1812 kwam er een nieuwe voorgevel naar een\\nontwerp van stadsarchitect Pierre-Jean De Broe.\\nIn 1540 liet Karel V een citadel optrekken op het terrein van de\\nSint-Baafsabdij. De oude Heilig Kerstkerk uit 1072, gelegen naast\\nde abdij, werd toen ook afgebroken. Daarom werd de dienst in 1541\\novergebracht naar de kapel van het blindengesticht Sint-Salvator in\\nde Sleepstraat. Deze kapel werd kort nadien afgebroken en vervangen\\ndoor de huidige kerk.",
+            "description":"De bouw van de kerk startte in 1550 en in 1571 werd ze ingewijd. Tussen 1810 en 1812 kwam er een nieuwe voorgevel naar een ontwerp van stadsarchitect Pierre-Jean De Broe. In 1540 liet Karel V een citadel optrekken op het terrein van de Sint-Baafsabdij. De oude Heilig Kerstkerk uit 1072, gelegen naast de abdij, werd toen ook afgebroken. Daarom werd de dienst in 1541 overgebracht naar de kapel van het blindengesticht Sint-Salvator in de Sleepstraat. Deze kapel werd kort nadien afgebroken en vervangen door de huidige kerk.",
             "category":[
                "Gotiek",
                "met neoclassicistische gevel"
@@ -575,7 +575,7 @@
                },
                "address":{
                   "value":"Sleepstraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -635,7 +635,7 @@
                },
                "address":{
                   "value":"Sint-Pietersplein ",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -681,7 +681,7 @@
          {
             "id":"12.0",
             "title":"Sint-Stefanus",
-            "description":"De bouw van de kerk startte in 1606 en werd voltooid in het midden\\nvan de eerste helft van de 17e eeuw. Het schip werd radicaal\\nverbouwd tussen 1653 en 1658. In 1752 werden de zijbeuken verhoogd en het interieur verfraaid. De middenbeuk en het koor brandden in 1838 uit. Jean Baptiste De Baets leidde de daaropvolgende restauratiewerken. De voor- en zijgevels werden in 1907–1908 hersteld onder leiding van architecten Henri en Valentin Vaerwyck. De kerk behoort tot het augustijnenklooster dat gesticht werd in 1296 door schenkingen van de familie Borluut, die het klooster bleef begunstigen tot in de 18e eeuw. De Sint-Ritakapel is uitgegroeid tot een zeer populair bedevaartsoord.",
+            "description":"De bouw van de kerk startte in 1606 en werd voltooid in het midden van de eerste helft van de 17e eeuw. Het schip werd radicaal verbouwd tussen 1653 en 1658. In 1752 werden de zijbeuken verhoogd en het interieur verfraaid. De middenbeuk en het koor brandden in 1838 uit. Jean Baptiste De Baets leidde de daaropvolgende restauratiewerken. De voor- en zijgevels werden in 1907–1908 hersteld onder leiding van architecten Henri en Valentin Vaerwyck. De kerk behoort tot het augustijnenklooster dat gesticht werd in 1296 door schenkingen van de familie Borluut, die het klooster bleef begunstigen tot in de 18e eeuw. De Sint-Ritakapel is uitgegroeid tot een zeer populair bedevaartsoord.",
             "category":[
                "Barok"
             ],
@@ -695,7 +695,7 @@
                },
                "address":{
                   "value":"Sint-Margrietstraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -741,7 +741,7 @@
          {
             "id":"13.0",
             "title":"Sint-Antonius-Abt",
-            "description":"De geschiedenis van deze bidplaats begint in 1648 toen na het\\nwegtrekken van het Spaanse leger een barak werd aangekocht en\\ningericht als kapel. Enkele decennia later werd die kapel afgebroken\\nen bouwde men deze kerk. De sacristie en geveltoren zijn latere\\ntoevoegingen. Tot 1972 waren er woningen aangebouwd tegen de\\nkerk. Die werden onteigend en afgebroken met de bedoeling nieuwe\\nsociale woningen te bouwen. Die zijn er tot dusver niet gekomen.\\nDaardoor ligt de kerk er vandaag ietwat geïsoleerd bij.",
+            "description":"De geschiedenis van deze bidplaats begint in 1648 toen na het wegtrekken van het Spaanse leger een barak werd aangekocht en ingericht als kapel. Enkele decennia later werd die kapel afgebroken en bouwde men deze kerk. De sacristie en geveltoren zijn latere toevoegingen. Tot 1972 waren er woningen aangebouwd tegen de kerk. Die werden onteigend en afgebroken met de bedoeling nieuwe sociale woningen te bouwen. Die zijn er tot dusver niet gekomen. Daardoor ligt de kerk er vandaag ietwat geïsoleerd bij.",
             "category":[
                "Classicerende barok"
             ],
@@ -755,7 +755,7 @@
                },
                "address":{
                   "value":"Redersplein",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Meulestede) "
                }
             },
@@ -801,7 +801,7 @@
          {
             "id":"14.0",
             "title":"Sint-Elisabeth",
-            "description":"De oudste sporen in de kerk dateren uit de 13e eeuw. In de periode\\n1631–1641 werden het voorportaal gebouwd en de pilaren in de middenbeuk verhoogd. Enkele decennia later herbouwde men de toren en het bovenste gedeelte van de middenbeuk. Rond 1860 speelde zich de ‘begijnhofkwestie’ af. Een liberaal-katholieke krachtmeting die in essentie ging over het zelfbeschikkingsrecht van de begijnhoven tegenover het recht van de Commissie van de Burgerlijke Godshuizen. Die mocht sinds de Franse Republiek beschikken over de goederen van de Gentse begijnhoven. De begijnen moesten het Sint-Elisabethbegijnhof in 1874 verlaten. Ze verhuisden naar een nieuw begijnhof in Sint-Amandsberg.",
+            "description":"De oudste sporen in de kerk dateren uit de 13e eeuw. In de periode 1631–1641 werden het voorportaal gebouwd en de pilaren in de middenbeuk verhoogd. Enkele decennia later herbouwde men de toren en het bovenste gedeelte van de middenbeuk. Rond 1860 speelde zich de ‘begijnhofkwestie’ af. Een liberaal-katholieke krachtmeting die in essentie ging over het zelfbeschikkingsrecht van de begijnhoven tegenover het recht van de Commissie van de Burgerlijke Godshuizen. Die mocht sinds de Franse Republiek beschikken over de goederen van de Gentse begijnhoven. De begijnen moesten het Sint-Elisabethbegijnhof in 1874 verlaten. Ze verhuisden naar een nieuw begijnhof in Sint-Amandsberg.",
             "category":[
                "Gotiek en barok"
             ],
@@ -815,7 +815,7 @@
                },
                "address":{
                   "value":"Begijnhofdries",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Sint-Elisabethbegijnhof)"
                }
             },
@@ -861,7 +861,7 @@
          {
             "id":"15.0",
             "title":"Onze-Lieve-Vrouw Presentatie",
-            "description":"De oudste vermelding van een bidplaats in het begijnhof van Ter\\nHoyen dateert uit 1262. Ze bevond zich ongeveer op de plaats van\\nde huidige kerk. In het midden van de 17e eeuw verkeerde het\\ngebouw in slechte staat en werd beslist een nieuwe kerk op te trekken. Twee Gentse begijnhoven staan op de Werelderfgoedlijst van\\nde UNESCO. Het begijnhof van Onze-Lieve-Vrouw Ter Hoyen is mooi\\nintact bewaard gebleven.",
+            "description":"De oudste vermelding van een bidplaats in het begijnhof van Ter Hoyen dateert uit 1262. Ze bevond zich ongeveer op de plaats van de huidige kerk. In het midden van de 17e eeuw verkeerde het gebouw in slechte staat en werd beslist een nieuwe kerk op te trekken. Twee Gentse begijnhoven staan op de Werelderfgoedlijst van de UNESCO. Het begijnhof van Onze-Lieve-Vrouw Ter Hoyen is mooi intact bewaard gebleven.",
             "category":[
                "Barok"
             ],
@@ -875,7 +875,7 @@
                },
                "address":{
                   "value":"Lange Vilolettestraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (begijnhof Onze-Lieve-Vrouw Ter Hoyen"
                }
             },
@@ -921,7 +921,7 @@
          {
             "id":"16.0",
             "title":"Sint-Catharina ",
-            "description":"De kerk werd gebouwd tussen 1683 en 1687. In 1903 werd het\\nschip verlengd. Daarvoor werd de voorgevel afgebroken en gereconstrueerd met het gerecupereerde bouwmateriaal. Ook twee\\nzijkapellen en een nieuwe sacristie werden toegevoegd. Deze kerk\\nverving een andere, 12e-eeuwse Sint-Catharinakerk, gelegen in de\\nMaïsstraat. Dat gebouw werd zwaar beschadigd tijdens godsdienstperikelen in april 1569. De ruïne werd onder het calvinistisch bewind (1577–1584) openbaar verkocht en nadien afgebroken.",
+            "description":"De kerk werd gebouwd tussen 1683 en 1687. In 1903 werd het schip verlengd. Daarvoor werd de voorgevel afgebroken en gereconstrueerd met het gerecupereerde bouwmateriaal. Ook twee zijkapellen en een nieuwe sacristie werden toegevoegd. Deze kerk verving een andere, 12e-eeuwse Sint-Catharinakerk, gelegen in de Maïsstraat. Dat gebouw werd zwaar beschadigd tijdens godsdienstperikelen in april 1569. De ruïne werd onder het calvinistisch bewind (1577–1584) openbaar verkocht en nadien afgebroken.",
             "category":[
                "Barok"
             ],
@@ -981,7 +981,7 @@
          {
             "id":"17.0",
             "title":"Sint-Amandus",
-            "description":"De kerk gaat terug op een 14e-eeuwse kapel. Begin 17e eeuw werd\\ndeze hersteld waarna verschillende verbouwingswerken volgden.\\nIn 1917 werd de kerk gebombardeerd en na de Eerste Wereldoorlog\\nnagenoeg volledig heropgebouwd. Rond 1350 werd op deze plaats de Sint-Laurentiuskapel ingewijd. Die werd rond 1578 aangeduid als parochiekerk van Oostakker en kreeg toen het patroonschap van de Heilige Amandus. Eind 16e eeuw werd de kerk even gebruikt voor de calvinistische eredienst, maar in 1602 werd ze opnieuw ingewijd.",
+            "description":"De kerk gaat terug op een 14e-eeuwse kapel. Begin 17e eeuw werd deze hersteld waarna verschillende verbouwingswerken volgden. In 1917 werd de kerk gebombardeerd en na de Eerste Wereldoorlog nagenoeg volledig heropgebouwd. Rond 1350 werd op deze plaats de Sint-Laurentiuskapel ingewijd. Die werd rond 1578 aangeduid als parochiekerk van Oostakker en kreeg toen het patroonschap van de Heilige Amandus. Eind 16e eeuw werd de kerk even gebruikt voor de calvinistische eredienst, maar in 1602 werd ze opnieuw ingewijd.",
             "category":[
                "(neo)Barok"
             ],
@@ -1041,7 +1041,7 @@
          {
             "id":"18.0",
             "title":"Sint-Niklaas",
-            "description":"Al in de 12e eeuw was er een kapel in Zwijnaarde. Die behoorde\\ntot de Sint-Pietersabdij. De huidige kerk werd gebouwd in 1775,\\nen vergroot in 1861 naar een ontwerp van Edmond de Perre Montigny.\\nToen werd o.m. een nieuwe toren met hoge naaldspits gebouwd.\\nIn 1918 werden de toren en de westgevel van de kerk door\\nde Duitse troepen gedynamiteerd. Tussen 1920 en 1922 werd de\\nschade hersteld. De oorspronkelijke achtkantige toren werd toen\\nvervangen door een vierkant model.",
+            "description":"Al in de 12e eeuw was er een kapel in Zwijnaarde. Die behoorde tot de Sint-Pietersabdij. De huidige kerk werd gebouwd in 1775, en vergroot in 1861 naar een ontwerp van Edmond de Perre Montigny. Toen werd o.m. een nieuwe toren met hoge naaldspits gebouwd. In 1918 werden de toren en de westgevel van de kerk door de Duitse troepen gedynamiteerd. Tussen 1920 en 1922 werd de schade hersteld. De oorspronkelijke achtkantige toren werd toen vervangen door een vierkant model.",
             "category":[
                "Classicisme"
             ],
@@ -1101,7 +1101,7 @@
          {
             "id":"19.0",
             "title":"Heilige Dionysius",
-            "description":"In 1845 werd de oude kerk van Sint-Denijs-Westrem afgebroken.\\nNog in datzelfde jaar werd gestart met de bouw van een nieuwe\\nkerk. De Heilige Dionysiuskerk heeft een goed bewaard neogotisch\\ninterieur. Vooral de muurschilderingen springen in het oog. Het interieur is recent gerestaureerd en werd in 2013 een van de laureaten van de Vlaamse Monumentenprijs.",
+            "description":"In 1845 werd de oude kerk van Sint-Denijs-Westrem afgebroken. Nog in datzelfde jaar werd gestart met de bouw van een nieuwe kerk. De Heilige Dionysiuskerk heeft een goed bewaard neogotisch interieur. Vooral de muurschilderingen springen in het oog. Het interieur is recent gerestaureerd en werd in 2013 een van de laureaten van de Vlaamse Monumentenprijs.",
             "category":[
                "Neogotiek"
             ],
@@ -1161,7 +1161,7 @@
          {
             "id":"20.0",
             "title":"Sint-Amandus",
-            "description":"De bouw van de kerk startte in 1846 nadat eerdere plannen voor\\nde vergroting van de Sint-Amanduskapel afgewezen waren door de\\nprovinciale overheid. Het ontwerp voor een neogotische kerk aan\\nde voet van de Kapelleberg werd wel aanvaard. De plannen werden\\ngetekend door Mathias Jozef Wolters. Tussen 1932 en 1938 werd\\nde kerk uitgebreid met een kruisbeuk, koor, sacristie en doopkapel.\\nBinnenin vervingen Antoine en Jan Rooms de drie beuken door een\\neenbeukige ruimte. Daardoor ontstond er één groot geheel en werd\\nhet uitzicht op het hoogaltaar op geen enkele manier meer belemmerd. Het neogotische doksaal, de preekstoel en het koorgestoelte bleven wel behouden.",
+            "description":"De bouw van de kerk startte in 1846 nadat eerdere plannen voor de vergroting van de Sint-Amanduskapel afgewezen waren door de provinciale overheid. Het ontwerp voor een neogotische kerk aan de voet van de Kapelleberg werd wel aanvaard. De plannen werden getekend door Mathias Jozef Wolters. Tussen 1932 en 1938 werd de kerk uitgebreid met een kruisbeuk, koor, sacristie en doopkapel. Binnenin vervingen Antoine en Jan Rooms de drie beuken door een eenbeukige ruimte. Daardoor ontstond er één groot geheel en werd het uitzicht op het hoogaltaar op geen enkele manier meer belemmerd. Het neogotische doksaal, de preekstoel en het koorgestoelte bleven wel behouden.",
             "category":[
                "Neogotiek"
             ],
@@ -1221,7 +1221,7 @@
          {
             "id":"21.0",
             "title":"Sint-Anna",
-            "description":"De eerste steen werd in 1853 gelegd door koning Leopold I. De inwijding van de nog onvoltooide kerk vond plaats in 1869. Het oorspronkelijk ontwerp van stadsarchitect Louis Roelandt werd aangepast en is in vereenvoudigde vorm terug te vinden in de definitieve plannen van Jacques Van Hoecke.\\nDe katholieke industrieel Ferdinand Lousbergs had een grote\\nfabriek aan de Reep, waar nu het Sint-Bavoinstituut staat. Hij was\\nde grote bezieler van de aanleg van de Keizer Karelstraat en de\\nbouw van de Sint-Annakerk. Als hij de straat overstak naar zijn\\nwoning, keek hij op ‘zijn’ boulevard, waarvan de Sint-Annakerk\\nmajestueus het perspectief sluit.",
+            "description":"De eerste steen werd in 1853 gelegd door koning Leopold I. De inwijding van de nog onvoltooide kerk vond plaats in 1869. Het oorspronkelijk ontwerp van stadsarchitect Louis Roelandt werd aangepast en is in vereenvoudigde vorm terug te vinden in de definitieve plannen van Jacques Van Hoecke. De katholieke industrieel Ferdinand Lousbergs had een grote fabriek aan de Reep, waar nu het Sint-Bavoinstituut staat. Hij was de grote bezieler van de aanleg van de Keizer Karelstraat en de bouw van de Sint-Annakerk. Als hij de straat overstak naar zijn woning, keek hij op ‘zijn’ boulevard, waarvan de Sint-Annakerk majestueus het perspectief sluit.",
             "category":[
                "Eclecticisme"
             ],
@@ -1235,7 +1235,7 @@
                },
                "address":{
                   "value":"Sint-Annaplien",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -1281,7 +1281,7 @@
          {
             "id":"22.0",
             "title":"Sint-Martinus",
-            "description":"De oudste vermelding van een kerk in Baarle dateert uit 1025.\\nDe huidige, 19e-eeuwse kerk werd vermoedelijk gebouwd op de\\nfundering van een eenbeukig romaans kerkje met rechthoekige\\nkoorafsluiting. Het stenen hoofdaltaar en de twee stenen zijaltaren\\nwerden ontworpen door Jean-Baptiste Bethune en uitgevoerd door\\nbeeldhouwer Leopold Blanchaert. Hij voerde talrijke neogotische\\nontwerpen van Bethune uit, samen met zijn broer Leonard Blanchaert\\nen zijn schoonbroer Adrien Bressers. In Gent richtten ze onder\\nmeer de Heilig Kerstkerk in en de kerk van het begijnhof van\\nSint-Amandsberg.",
+            "description":"De oudste vermelding van een kerk in Baarle dateert uit 1025. De huidige, 19e-eeuwse kerk werd vermoedelijk gebouwd op de fundering van een eenbeukig romaans kerkje met rechthoekige koorafsluiting. Het stenen hoofdaltaar en de twee stenen zijaltaren werden ontworpen door Jean-Baptiste Bethune en uitgevoerd door beeldhouwer Leopold Blanchaert. Hij voerde talrijke neogotische ontwerpen van Bethune uit, samen met zijn broer Leonard Blanchaert en zijn schoonbroer Adrien Bressers. In Gent richtten ze onder meer de Heilig Kerstkerk in en de kerk van het begijnhof van Sint-Amandsberg.",
             "category":[
                "Neogotiek"
             ],
@@ -1341,7 +1341,7 @@
          {
             "id":"23.0",
             "title":"Sint-Gerulfus",
-            "description":"Na de omwentelingen van de Franse Revolutie werd in de 19e eeuw\\neen nieuwe kerk gebouwd tegen de bestaande toren. Later voerde\\nLouis Gildemyn nog restauraties uit aan de voorgevel en aan de\\ntoren. De Sint-Gerulfuskerk behoorde tot een abdijcomplex. In 1797\\nwerd de norbertijnengemeenschap verdreven. In 1804 opende Lieven\\nBauwens een spinnerij in de abdij. De toren en het schip van\\nde kerk behielden in die periode evenwel hun religieuze functie als\\nparochiekerk. Na de dood van Bauwens in 1822 kwam de fabriek in\\nhanden van zijn schoonbroer Frans De Vos. Hij verkocht de fabriek\\nin 1823. In 1837 kochten de jezuïeten de vleugel langs de Leie,\\nin 1850 de resterende delen van het gebouw.",
+            "description":"Na de omwentelingen van de Franse Revolutie werd in de 19e eeuw een nieuwe kerk gebouwd tegen de bestaande toren. Later voerde Louis Gildemyn nog restauraties uit aan de voorgevel en aan de toren. De Sint-Gerulfuskerk behoorde tot een abdijcomplex. In 1797 werd de norbertijnengemeenschap verdreven. In 1804 opende Lieven Bauwens een spinnerij in de abdij. De toren en het schip van de kerk behielden in die periode evenwel hun religieuze functie als parochiekerk. Na de dood van Bauwens in 1822 kwam de fabriek in handen van zijn schoonbroer Frans De Vos. Hij verkocht de fabriek in 1823. In 1837 kochten de jezuïeten de vleugel langs de Leie, in 1850 de resterende delen van het gebouw.",
             "category":[
                "Neobarok"
             ],
@@ -1401,7 +1401,7 @@
          {
             "id":"24.0",
             "title":"Onze-Lieve-Vrouw",
-            "description":"Luchteren was oorspronkelijk een bosrijke streek. De ontwikkeling\\nals woongebied startte in de 19e eeuw in de Gavergrachtstraat.\\nDe kapel, het klooster en het woonhuis voor de priester werden\\nsamen opgetrokken in 1861. In 1867 werd de lagere school opgericht.\\nDe kapel werd vergroot in 1884. De familie Van den Bogaerde-\\nDe Lens, toen eigenaars van het nabije kasteel ‘IJzeren Hekken’,\\nfinancierden de bouw van het kloostercomplex. Dit was bedoeld als\\nonderdak voor de zusters die de weeskinderen van Drongen verzorgden.Een gedenksteen en wapenschild in de kapelgevel herinneren hieraan.",
+            "description":"Luchteren was oorspronkelijk een bosrijke streek. De ontwikkeling als woongebied startte in de 19e eeuw in de Gavergrachtstraat. De kapel, het klooster en het woonhuis voor de priester werden samen opgetrokken in 1861. In 1867 werd de lagere school opgericht. De kapel werd vergroot in 1884. De familie Van den Bogaerde- De Lens, toen eigenaars van het nabije kasteel ‘IJzeren Hekken’, financierden de bouw van het kloostercomplex. Dit was bedoeld als onderdak voor de zusters die de weeskinderen van Drongen verzorgden.Een gedenksteen en wapenschild in de kapelgevel herinneren hieraan.",
             "category":[
                "Neogotiek"
             ],
@@ -1461,7 +1461,7 @@
          {
             "id":"25.0",
             "title":"Sint-Jan-Baptist",
-            "description":"De kerk werd ontworpen door Jacques Van Hoecke. Na zijn overlijden\\nen nadat een eerste constructie in 1863 was ingestort, werden\\nde plannen door zijn opvolger Leclerc-Restiaux aangepast en\\nwerd de kerk voltooid in 1866. Het interieur van de kerk was oorspronkelijk volledig polychroom beschilderd door het atelier Bressers, vermoedelijk naar een ontwerp van Jean-Baptiste Bethune,\\neen sleutelfiguur van de neogotiek in België. Onder de invloed van\\nhet Tweede Vaticaans Concilie (1962–1965) werden veel van die\\ninterieurs later in een neutrale tint overschilderd, wat ook gebeurde\\nin deze kerk.",
+            "description":"De kerk werd ontworpen door Jacques Van Hoecke. Na zijn overlijden en nadat een eerste constructie in 1863 was ingestort, werden de plannen door zijn opvolger Leclerc-Restiaux aangepast en werd de kerk voltooid in 1866. Het interieur van de kerk was oorspronkelijk volledig polychroom beschilderd door het atelier Bressers, vermoedelijk naar een ontwerp van Jean-Baptiste Bethune, een sleutelfiguur van de neogotiek in België. Onder de invloed van het Tweede Vaticaans Concilie (1962–1965) werden veel van die interieurs later in een neutrale tint overschilderd, wat ook gebeurde in deze kerk.",
             "category":[
                "Neogotiek"
             ],
@@ -1475,7 +1475,7 @@
                },
                "address":{
                   "value":"Emilius Seghersplein",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Brugse Poort)"
                }
             },
@@ -1521,7 +1521,7 @@
          {
             "id":"26.0",
             "title":"Sint-Simon en Sint-Judas",
-            "description":"Door de industrialisering groeide de bevolking van Gentbrugge\\ntussen 1865 en 1890 van 2.000 tot 9.000 inwoners. De kerkraad\\nbesliste in 1868 tot de bouw van een nieuwe kerk, ter vervanging\\nvan een 15e-eeuws vroeggotisch kerkje. Voor de nieuwe kerk werd\\nrond 1875 het Gentbruggeplein aangelegd.\\nPierre en zoon Maximilien Van Peteghem bouwden rond 1853 het\\norgel voor de oude kerk van Gentbrugge. Het verhuisde naar de huidige kerk en werd dan uitgebreid tot een orgel met twee klavieren\\nen afzonderlijke pedalen. In het jaar 2000 werd het gerestaureerd\\nen herleid tot de oorspronkelijke omvang met één klavier en aangekoppeld pedaal.",
+            "description":"Door de industrialisering groeide de bevolking van Gentbrugge tussen 1865 en 1890 van 2.000 tot 9.000 inwoners. De kerkraad besliste in 1868 tot de bouw van een nieuwe kerk, ter vervanging van een 15e-eeuws vroeggotisch kerkje. Voor de nieuwe kerk werd rond 1875 het Gentbruggeplein aangelegd. Pierre en zoon Maximilien Van Peteghem bouwden rond 1853 het orgel voor de oude kerk van Gentbrugge. Het verhuisde naar de huidige kerk en werd dan uitgebreid tot een orgel met twee klavieren en afzonderlijke pedalen. In het jaar 2000 werd het gerestaureerd en herleid tot de oorspronkelijke omvang met één klavier en aangekoppeld pedaal.",
             "category":[
                "Neogotiek"
             ],
@@ -1581,7 +1581,7 @@
          {
             "id":"27.0",
             "title":"Sint-Livinus",
-            "description":"De parochiekerk Sint-Livinus werd gebouwd tussen 1869 en 1872.\\nDe nieuwbouw verving een oude en kleinere kerk uit 1791. Die bevond\\nzich aan de Hundelgemsesteenweg, ter hoogte van de Jozef\\nVervaenestraat. Vanaf 1840 werd het gebied tussen de Brusselsesteenweg en de Hundelgemsesteenweg geürbaniseerd. Er ontstond een nieuw centrum, met voor de kerk een rechthoekig plein\\nvan waaruit diverse rechte verbindingsstraten vertrokken. In die\\nsmalle straten kwam op een paar decennia tijd een groot aantal,\\nvaak goedkope woningen.",
+            "description":"De parochiekerk Sint-Livinus werd gebouwd tussen 1869 en 1872. De nieuwbouw verving een oude en kleinere kerk uit 1791. Die bevond zich aan de Hundelgemsesteenweg, ter hoogte van de Jozef Vervaenestraat. Vanaf 1840 werd het gebied tussen de Brusselsesteenweg en de Hundelgemsesteenweg geürbaniseerd. Er ontstond een nieuw centrum, met voor de kerk een rechthoekig plein van waaruit diverse rechte verbindingsstraten vertrokken. In die smalle straten kwam op een paar decennia tijd een groot aantal, vaak goedkope woningen.",
             "category":[
                "Neogotiek"
             ],
@@ -1641,7 +1641,7 @@
          {
             "id":"28.0",
             "title":"Sint-Bavo",
-            "description":"Er is reeds sprake van een bidplaats in Mendonk in een tekst van\\n694. De kerk werd in de 17e eeuw geplunderd en herbouwd als een\\neenbeukige kapel met een houten torentje. Eind 19e eeuw kwam op\\ndezelfde plaats een nieuwe kerk, ontworpen door Edmond de Perre\\nMontigny. De kerk werd in 1944 beschoten door terugtrekkende\\nDuitse troepen. Verscheidene voltreffers veroorzaakten een hevige\\nbrand die het schip, de ingang en de toren verwoestte. Het koor,\\nde sacristie en de bergplaats bleven staan, maar waren zwaar\\nbeschadigd. De kerk werd in dezelfde stijl wederopgebouwd door\\nAdrien Bressers.",
+            "description":"Er is reeds sprake van een bidplaats in Mendonk in een tekst van 694. De kerk werd in de 17e eeuw geplunderd en herbouwd als een eenbeukige kapel met een houten torentje. Eind 19e eeuw kwam op dezelfde plaats een nieuwe kerk, ontworpen door Edmond de Perre Montigny. De kerk werd in 1944 beschoten door terugtrekkende Duitse troepen. Verscheidene voltreffers veroorzaakten een hevige brand die het schip, de ingang en de toren verwoestte. Het koor, de sacristie en de bergplaats bleven staan, maar waren zwaar beschadigd. De kerk werd in dezelfde stijl wederopgebouwd door Adrien Bressers.",
             "category":[
                "Neoromaans"
             ],
@@ -1701,7 +1701,7 @@
          {
             "id":"29.0",
             "title":"Sint-Antonius van Padua",
-            "description":"Deze kapel werd gebouwd in 1871 als hulpkerk van de parochie\\nSint-Simon en Sint-Judas. In 1965 werd ze parochiekerk. De kerk\\nliep grote schade op bij een luchtaanval op 5 september 1943.\\nAlle gebrandschilderde ramen werden daarbij vernietigd. In 1947\\nwerd de kerk volledig hersteld, met toevoeging van het voorportaal.",
+            "description":"Deze kapel werd gebouwd in 1871 als hulpkerk van de parochie Sint-Simon en Sint-Judas. In 1965 werd ze parochiekerk. De kerk liep grote schade op bij een luchtaanval op 5 september 1943. Alle gebrandschilderde ramen werden daarbij vernietigd. In 1947 werd de kerk volledig hersteld, met toevoeging van het voorportaal.",
             "category":[
                "Neogotiek"
             ],
@@ -1761,7 +1761,7 @@
          {
             "id":"30.0",
             "title":"Sint-Macharius",
-            "description":"In de 19e eeuw groeide de Machariuswijk snel door de aanwezigheid\\nvan de dokken, het slachthuis, de veemarkt en de stations.\\nDe refter van de voormalige Sint-Baafsabdij, die toen als parochiekerk\\ndienst deed, werd daardoor te klein. De eerste steen van de\\nSint-Machariuskerk werd gelegd op 13 juni 1880. De toren was\\npas in 1893 voltooid. De plannen voor de nieuwe Sint-Machariuskerk\\nwerden getekend door Arthur Verhaegen. Hij was van opleiding\\narchitect en een van de promotoren van de neogotiek. Verhaegen\\nwas ook een katholiek politicus. Als initiatiefnemer van de Antisocialistische Werkliedenbond in 1891 was hij een van de pioniers van de christelijke arbeidersbeweging.",
+            "description":"In de 19e eeuw groeide de Machariuswijk snel door de aanwezigheid van de dokken, het slachthuis, de veemarkt en de stations. De refter van de voormalige Sint-Baafsabdij, die toen als parochiekerk dienst deed, werd daardoor te klein. De eerste steen van de Sint-Machariuskerk werd gelegd op 13 juni 1880. De toren was pas in 1893 voltooid. De plannen voor de nieuwe Sint-Machariuskerk werden getekend door Arthur Verhaegen. Hij was van opleiding architect en een van de promotoren van de neogotiek. Verhaegen was ook een katholiek politicus. Als initiatiefnemer van de Antisocialistische Werkliedenbond in 1891 was hij een van de pioniers van de christelijke arbeidersbeweging.",
             "category":[
                "Neogotiek"
             ],
@@ -1775,7 +1775,7 @@
                },
                "address":{
                   "value":"Sint-Machariusstraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Macharius)"
                }
             },
@@ -1881,7 +1881,7 @@
          {
             "id":"32.0",
             "title":"Sint-Theresia van Avila",
-            "description":"Deze kerk werd gebouwd als publieke kapel van het klooster van de\\nzusters der Kindsheid Jesu. In 1939 volgde een uitbreiding met een\\nsacristie, een doopkapel en uitgebouwde biechtstoelen. Zoals heel\\nwat kerken in de 19e eeuw maakte de kerk van Sint-Theresia van\\nAvila deel uit van een complex waartoe een klooster, pastorij en een\\nschool behoorden. Aanvankelijk was dit een hulpkerk van de Heilig\\nKerstparochie. In 1909 werd ze een zelfstandige parochiekerk.",
+            "description":"Deze kerk werd gebouwd als publieke kapel van het klooster van de zusters der Kindsheid Jesu. In 1939 volgde een uitbreiding met een sacristie, een doopkapel en uitgebouwde biechtstoelen. Zoals heel wat kerken in de 19e eeuw maakte de kerk van Sint-Theresia van Avila deel uit van een complex waartoe een klooster, pastorij en een school behoorden. Aanvankelijk was dit een hulpkerk van de Heilig Kerstparochie. In 1909 werd ze een zelfstandige parochiekerk.",
             "category":[
                "Neogotiek"
             ],
@@ -1895,7 +1895,7 @@
                },
                "address":{
                   "value":"Meulesteedsesteenweg",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Muide)"
                }
             },
@@ -1941,7 +1941,7 @@
          {
             "id":"33.0",
             "title":"Sint-Jozef",
-            "description":"Na de inplanting van een nieuwe woonwijk achter het Rabot in 1878,\\nwerd de bouw van een parochiekerk overwogen. Die kwam er op\\ngronden van de Gentse textielfamilie de Hemptinne, die in de buurt\\nook een grote vlasspinnerij bezaten. Architect Auguste Van Assche\\nstudeerde aan de Gentse academie, toen geleid door de architecten\\nLouis Roelandt en Adolphe Pauli. Onder invloed van Jean-Baptiste\\nBethune werd Van Assche geïnspireerd door de neogotiek. Hij legde\\nzich toe op de restauratie van middeleeuwse monumenten en de\\nbouw van kerken, vaak in Engelse, hoog-Victoriaanse stijl met veel\\npolychrome materialen.",
+            "description":"Na de inplanting van een nieuwe woonwijk achter het Rabot in 1878, werd de bouw van een parochiekerk overwogen. Die kwam er op gronden van de Gentse textielfamilie de Hemptinne, die in de buurt ook een grote vlasspinnerij bezaten. Architect Auguste Van Assche studeerde aan de Gentse academie, toen geleid door de architecten Louis Roelandt en Adolphe Pauli. Onder invloed van Jean-Baptiste Bethune werd Van Assche geïnspireerd door de neogotiek. Hij legde zich toe op de restauratie van middeleeuwse monumenten en de bouw van kerken, vaak in Engelse, hoog-Victoriaanse stijl met veel polychrome materialen.",
             "category":[
                "Neogotiek"
             ],
@@ -1955,7 +1955,7 @@
                },
                "address":{
                   "value":"Wondelgemstraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Rabot)"
                }
             },
@@ -2001,7 +2001,7 @@
          {
             "id":"34.0",
             "title":"Sint-Eligius",
-            "description":"De kerk en de pastorie werden geschonken door de pastoor van\\nde nabijgelegen Sint-Simon en Sint-Judaskerk. In 1938 werd de\\ntoren gebouwd, met vier uurwerken. Toen werden ook het voorportaal,\\nde doopkapel en de sacristie bijgebouwd. Bij de aanstelling van\\nde eerste pastoor in 1892 was de linkerbeuk nog afgesloten met\\neen muur tussen de pilaren. Dat deel van de kerk werd toen als\\nkatholieke school gebruikt, omdat het schoolgebouw in de Jules de\\nSaint-Genoisstraat was opgeëist voor de inrichting van het officieel\\nrijksonderwijs. Later werden naast de kerk klaslokalen gebouwd.",
+            "description":"De kerk en de pastorie werden geschonken door de pastoor van de nabijgelegen Sint-Simon en Sint-Judaskerk. In 1938 werd de toren gebouwd, met vier uurwerken. Toen werden ook het voorportaal, de doopkapel en de sacristie bijgebouwd. Bij de aanstelling van de eerste pastoor in 1892 was de linkerbeuk nog afgesloten met een muur tussen de pilaren. Dat deel van de kerk werd toen als katholieke school gebruikt, omdat het schoolgebouw in de Jules de Saint-Genoisstraat was opgeëist voor de inrichting van het officieel rijksonderwijs. Later werden naast de kerk klaslokalen gebouwd.",
             "category":[
                "Neogotiek"
             ],
@@ -2061,7 +2061,7 @@
          {
             "id":"35.0",
             "title":"Sint-Coleta",
-            "description":"De kerk is samen met het klooster en de school van de zusters van\\nOnze-Lieve-Vrouw Visitatie gebouwd. Door de snelle bevolkingsgroei\\nwerd Sint-Coleta al snel een autonome parochie. Het orgel van de kerk werd gebouwd door Charles Anneessens uit Geraardsbergen\\ndie ook orgels plaatste in de Sint-Salvatorkerk en in de kerk\\nvan het Sint-Barbaracollege. In het orgel van de Sint-Coletakerk zijn\\nnog enkele oude pijpen uit de 17e eeuw aanwezig. De orgelpijpen\\nwerden in neogotische stijl beschilderd.",
+            "description":"De kerk is samen met het klooster en de school van de zusters van Onze-Lieve-Vrouw Visitatie gebouwd. Door de snelle bevolkingsgroei werd Sint-Coleta al snel een autonome parochie. Het orgel van de kerk werd gebouwd door Charles Anneessens uit Geraardsbergen die ook orgels plaatste in de Sint-Salvatorkerk en in de kerk van het Sint-Barbaracollege. In het orgel van de Sint-Coletakerk zijn nog enkele oude pijpen uit de 17e eeuw aanwezig. De orgelpijpen werden in neogotische stijl beschilderd.",
             "category":[
                "Neogotiek"
             ],
@@ -2075,7 +2075,7 @@
                },
                "address":{
                   "value":"Sint-Coletastraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -2135,7 +2135,7 @@
                },
                "address":{
                   "value":"Forelstraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Heimis)"
                }
             },
@@ -2181,7 +2181,7 @@
          {
             "id":"37.0",
             "title":"Sint-Vincentius a Paulo",
-            "description":"De Bloemekenswijk ontwikkelde zich snel tussen 1900 en 1914.\\nHet centrale Edmond Van Beverenplein werd aangelegd in 1910.\\nDe parochiekerk kwam er even verderop in de Maïsstraat. De eerste\\nsteen van de kerk werd gelegd op 20 juli 1914. Toen enkele\\nweken later de Eerste Wereldoorlog uitbrak, waren de toren en de\\nmuren enkele meters hoog. De werkzaamheden werden pas hervat\\nin 1925 en de kerk werd op 28 maart 1926 in gebruik genomen.",
+            "description":"De Bloemekenswijk ontwikkelde zich snel tussen 1900 en 1914. Het centrale Edmond Van Beverenplein werd aangelegd in 1910. De parochiekerk kwam er even verderop in de Maïsstraat. De eerste steen van de kerk werd gelegd op 20 juli 1914. Toen enkele weken later de Eerste Wereldoorlog uitbrak, waren de toren en de muren enkele meters hoog. De werkzaamheden werden pas hervat in 1925 en de kerk werd op 28 maart 1926 in gebruik genomen.",
             "category":[
                "Neogotiek"
             ],
@@ -2195,7 +2195,7 @@
                },
                "address":{
                   "value":"Maïsstraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Bloemekenswijk"
                }
             },
@@ -2241,7 +2241,7 @@
          {
             "id":"38.0",
             "title":"Sint-Paulus",
-            "description":"De kerk werd gebouwd in het interbellum, maar de plannen dateerden\\nal van voor de Eerste Wereldoorlog. Een neogotisch ontwerp\\nhaalde het niet en de kerk werd uiteindelijk in neoromaanse\\nbouwstijl gebouwd. De parochie Sint-Paulus bestaat sinds 1902. Architect Henri Valcke bouwde eerst een voorlopige houten hulpkerk,\\ndie in 1905 in gebruik werd genomen. Het koor en de sacristie van\\ndie kerk waren in steen, de andere muren bestonden uit twee planken met houtzaagsel ertussen als isolatie. Henri Valcke ontwierp\\nnadien ook de huidige Sint-Pauluskerk.",
+            "description":"De kerk werd gebouwd in het interbellum, maar de plannen dateerden al van voor de Eerste Wereldoorlog. Een neogotisch ontwerp haalde het niet en de kerk werd uiteindelijk in neoromaanse bouwstijl gebouwd. De parochie Sint-Paulus bestaat sinds 1902. Architect Henri Valcke bouwde eerst een voorlopige houten hulpkerk, die in 1905 in gebruik werd genomen. Het koor en de sacristie van die kerk waren in steen, de andere muren bestonden uit twee planken met houtzaagsel ertussen als isolatie. Henri Valcke ontwierp nadien ook de huidige Sint-Pauluskerk.",
             "category":[
                "Neoromaans"
             ],
@@ -2255,7 +2255,7 @@
                },
                "address":{
                   "value":"Smidsestraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -2301,7 +2301,7 @@
          {
             "id":"39.0",
             "title":"Sint-Theresia van het Kind Jezus",
-            "description":"De eerste steen van deze kerk werd gelegd op 19 september 1927\\ndoor bisschop Coppieters. Een jaar later was de kerk voltooid.\\nNa de Eerste Wereldoorlog ontwikkelde de Rooigembuurt zich\\nverder als nijverheidswijk. Meest opvallend was de bouw van ‘De\\nWerkerskolonie’, een wooncomplex aan de Brugsesteenweg voor\\n1.500 bewoners, gerealiseerd door de Maatschappij der Goedkope\\nWoningen. Onder meer om die bevolkingsgroei op te vangen werd\\nde nieuwe kerk in de Boomstraat gebouwd.",
+            "description":"De eerste steen van deze kerk werd gelegd op 19 september 1927 door bisschop Coppieters. Een jaar later was de kerk voltooid. Na de Eerste Wereldoorlog ontwikkelde de Rooigembuurt zich verder als nijverheidswijk. Meest opvallend was de bouw van ‘De Werkerskolonie’, een wooncomplex aan de Brugsesteenweg voor 1.500 bewoners, gerealiseerd door de Maatschappij der Goedkope Woningen. Onder meer om die bevolkingsgroei op te vangen werd de nieuwe kerk in de Boomstraat gebouwd.",
             "category":[
                "Neoromaans"
             ],
@@ -2315,7 +2315,7 @@
                },
                "address":{
                   "value":"Boomstraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Rooigem)"
                }
             },
@@ -2361,7 +2361,7 @@
          {
             "id":"40.0",
             "title":"Onze-Lieve-Vrouw",
-            "description":"Op de Wereldtentoonstelling in Gent in 1913 werden plannen\\nvoorgesteld van Jan Rooms voor een kerk en pastorie in de wijk\\nOude Bareel. Pas na de oprichting van de nieuwe parochie in 1928\\nkwam het initiatief om een kerk te bouwen. Uiteindelijk ontwierp een\\nandere architect, Valentin Vaerwyck, het gebouw. In het architectuurtijdschrift Bâtir werd deze kerk beschreven als ‘een der meest harmonieuze landelijke kerken. Gezond, zuiver van lijn, voornaam en intiem past zij zich aan de velden en de boerderijen aan. Haar sierlijk grondplan, uitgerokken noch ineengedrongen, alsook de schikking van het interieur maken er een praktische kerk van, zonder evenwel de vriendelijke sfeer te schaden.’",
+            "description":"Op de Wereldtentoonstelling in Gent in 1913 werden plannen voorgesteld van Jan Rooms voor een kerk en pastorie in de wijk Oude Bareel. Pas na de oprichting van de nieuwe parochie in 1928 kwam het initiatief om een kerk te bouwen. Uiteindelijk ontwierp een andere architect, Valentin Vaerwyck, het gebouw. In het architectuurtijdschrift Bâtir werd deze kerk beschreven als ‘een der meest harmonieuze landelijke kerken. Gezond, zuiver van lijn, voornaam en intiem past zij zich aan de velden en de boerderijen aan. Haar sierlijk grondplan, uitgerokken noch ineengedrongen, alsook de schikking van het interieur maken er een praktische kerk van, zonder evenwel de vriendelijke sfeer te schaden.’",
             "category":[
                "Interbellumstijl"
             ],
@@ -2421,7 +2421,7 @@
          {
             "id":"41.0",
             "title":"Sint-Pieters-Buiten",
-            "description":"In 1856 werd op deze plaats een proosdij opgericht. Er kwam een\\nkerk ontworpen door Jean-Baptiste Boterdaele. Na de Eerste Wereldoorlog werden de omliggende gronden verkaveld en bleek de\\nkerk te klein. Ze werd tussen 1934 en 1937 vernieuwd en uitgebreid\\ndoor wijkbewoner Valentin Vaerwyck. In 1913 vond in deze buurt een\\nwereldtentoonstelling plaats. Op dat moment stonden op deze plaats\\nal een kerk en enkele huizen. De tentoonstellingsterreinen werden in\\neen boog daaromheen aangelegd. Vlakbij de Sint-Pietersaalststraat\\nbevond zich het onderdeel Oud-Vlaanderen, een populaire reconstructie van historische gebouwen. Die waren ook ontworpen door Valentin Vaerwyck, die later tekende voor de Sint-Pieters-Buitenkerk.",
+            "description":"In 1856 werd op deze plaats een proosdij opgericht. Er kwam een kerk ontworpen door Jean-Baptiste Boterdaele. Na de Eerste Wereldoorlog werden de omliggende gronden verkaveld en bleek de kerk te klein. Ze werd tussen 1934 en 1937 vernieuwd en uitgebreid door wijkbewoner Valentin Vaerwyck. In 1913 vond in deze buurt een wereldtentoonstelling plaats. Op dat moment stonden op deze plaats al een kerk en enkele huizen. De tentoonstellingsterreinen werden in een boog daaromheen aangelegd. Vlakbij de Sint-Pietersaalststraat bevond zich het onderdeel Oud-Vlaanderen, een populaire reconstructie van historische gebouwen. Die waren ook ontworpen door Valentin Vaerwyck, die later tekende voor de Sint-Pieters-Buitenkerk.",
             "category":[
                "Interbellumstijl"
             ],
@@ -2435,7 +2435,7 @@
                },
                "address":{
                   "value":"Sint-Pietersaalststraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent"
                }
             },
@@ -2481,7 +2481,7 @@
          {
             "id":"42.0",
             "title":"Heilig Hart",
-            "description":"Deze kerk werd in het interbellum gebouwd als hulpkerk. Ze werd\\neen parochiekerk in 1962. De winterkapel werd in 1982 bijgebouwd.\\nBoven de ingang werd in 1972 een veelkleurig figuratief glasraam\\ngeplaatst. Het werd gemaakt door de Gentse glaskunstenaar Armand\\nBlondeel, die werd opgeleid in de Sint-Lucasschool door o.m.\\nHenri Coppejans. Andere glasramen in dit kleine kerkje zijn van het\\natelier Bressers.",
+            "description":"Deze kerk werd in het interbellum gebouwd als hulpkerk. Ze werd een parochiekerk in 1962. De winterkapel werd in 1982 bijgebouwd. Boven de ingang werd in 1972 een veelkleurig figuratief glasraam geplaatst. Het werd gemaakt door de Gentse glaskunstenaar Armand Blondeel, die werd opgeleid in de Sint-Lucasschool door o.m. Henri Coppejans. Andere glasramen in dit kleine kerkje zijn van het atelier Bressers.",
             "category":[
                "Interbellumstijl"
             ],
@@ -2541,7 +2541,7 @@
          {
             "id":"43.0",
             "title":"Sint-Godelieve",
-            "description":"In 1948 kwam er een kerk in de Sint-Godelievestraat. Het gebouw\\nstortte evenwel kort daarop in. In 1950 werden de plannen voor\\neen nieuwe kerk goedgekeurd, die in 1952 werd gebouwd. De Zusters\\nMaricolen van Waasmunster financierden de bouw van de kerk.\\nZij richtten in het midden van de 19e eeuw een handwerkschool\\nvoor meisjes op in Wondelgem. In 1949 werd een nieuw schoolcomplex voor meisjesonderwijs gebouwd, waarnaast in 1952 deze kerk kwam.",
+            "description":"In 1948 kwam er een kerk in de Sint-Godelievestraat. Het gebouw stortte evenwel kort daarop in. In 1950 werden de plannen voor een nieuwe kerk goedgekeurd, die in 1952 werd gebouwd. De Zusters Maricolen van Waasmunster financierden de bouw van de kerk. Zij richtten in het midden van de 19e eeuw een handwerkschool voor meisjes op in Wondelgem. In 1949 werd een nieuw schoolcomplex voor meisjesonderwijs gebouwd, waarnaast in 1952 deze kerk kwam.",
             "category":[
                "Neoromaans"
             ],
@@ -2601,7 +2601,7 @@
          {
             "id":"44.0",
             "title":"Onze-Lieve-Vrouw Koningin van de Vrede",
-            "description":"Vanaf 1953 bouwden 4 sociale huisvestingsmaatschappijen de\\nwijk ‘Heldenhulde’ op het eiland Malem. Die telde 475 woningen\\ndie plaats boden aan 2.000 inwoners. De Sint-Jan-Baptistkerk lag\\nwat te ver en zou te klein worden om deze bevolkingsgroei op te\\nvangen. Daarom werd beslist een ‘annexekerk’ op te trekken in de\\nwijk. De kerk paste in het eenheidsbeeld van witte gevels en zwarte\\ndaken van de wijk, een voorbeeld van de stedenbouwkundige ideeën\\ndie in de naoorlogse periode werden verdedigd door de christendemocraten. Het ontwerp van eengezinswoningen met voortuintjes was geïnspireerd op het tuinwijkconcept uit het begin van de 20e eeuw.",
+            "description":"Vanaf 1953 bouwden 4 sociale huisvestingsmaatschappijen de wijk ‘Heldenhulde’ op het eiland Malem. Die telde 475 woningen die plaats boden aan 2.000 inwoners. De Sint-Jan-Baptistkerk lag wat te ver en zou te klein worden om deze bevolkingsgroei op te vangen. Daarom werd beslist een ‘annexekerk’ op te trekken in de wijk. De kerk paste in het eenheidsbeeld van witte gevels en zwarte daken van de wijk, een voorbeeld van de stedenbouwkundige ideeën die in de naoorlogse periode werden verdedigd door de christendemocraten. Het ontwerp van eengezinswoningen met voortuintjes was geïnspireerd op het tuinwijkconcept uit het begin van de 20e eeuw.",
             "category":[
                "Landelijke stijl met neoromaanse inslag"
             ],
@@ -2615,7 +2615,7 @@
                },
                "address":{
                   "value":"Oud-Strijderslaan",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Malem)"
                }
             },
@@ -2661,7 +2661,7 @@
          {
             "id":"45.0",
             "title":"Sint-Bernadette",
-            "description":"Een houten kerkje uit 1935 werd vervangen door een moderne\\nkerk, volgens plannen van architecten Leo Lefebure en André Platel.\\nDe kerk werd ingewijd op 22 november 1969. Deze kerk ligt aan\\neen tuinwijk met 241 woningen, waarvan de bouw in 1923 begon.\\nDe wijk was ontworpen door Oscar Vande Voorde in opdracht van de\\n‘Gentsche Maatschappij der Werkerswoningen’. De bevolking in de\\nwijk groeide snel aan, en dit gaf aanleiding tot de oprichting van de\\nnieuwe parochie in 1950.",
+            "description":"Een houten kerkje uit 1935 werd vervangen door een moderne kerk, volgens plannen van architecten Leo Lefebure en André Platel. De kerk werd ingewijd op 22 november 1969. Deze kerk ligt aan een tuinwijk met 241 woningen, waarvan de bouw in 1923 begon. De wijk was ontworpen door Oscar Vande Voorde in opdracht van de ‘Gentsche Maatschappij der Werkerswoningen’. De bevolking in de wijk groeide snel aan, en dit gaf aanleiding tot de oprichting van de nieuwe parochie in 1950.",
             "category":[
                "Naoorlogs modernisme"
             ],
@@ -2675,7 +2675,7 @@
                },
                "address":{
                   "value":"Sint-Bernadettestraat",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Sint-Amandsberg"
                }
             },
@@ -2721,7 +2721,7 @@
          {
             "id":"46.0",
             "title":"Heilig Kruis",
-            "description":"Op het Westveld werd in de jaren 1950 een volkswijk gebouwd.\\nDit was de aanleiding voor de oprichting van een nieuwe parochie\\nen de bouw van een kerk. De kerk werd ontworpen en gebouwd ten\\ntijde van het Tweede Vaticaans Concilie (1962–1965). Tijdens de\\nbouw werden daardoor de oriëntering van het altaar en de plaatsing\\nvan het tabernakel aangepast. Dit kwam links van het altaar en niet\\nmeer in het midden.",
+            "description":"Op het Westveld werd in de jaren 1950 een volkswijk gebouwd. Dit was de aanleiding voor de oprichting van een nieuwe parochie en de bouw van een kerk. De kerk werd ontworpen en gebouwd ten tijde van het Tweede Vaticaans Concilie (1962–1965). Tijdens de bouw werden daardoor de oriëntering van het altaar en de plaatsing van het tabernakel aangepast. Dit kwam links van het altaar en niet meer in het midden.",
             "category":[
                "Naoorlogs modernisme"
             ],
@@ -2781,7 +2781,7 @@
          {
             "id":"47.0",
             "title":"Christus Koning",
-            "description":"De wijk Nieuw Gent ontwikkelde zich vanaf de jaren 1960. De kerk\\nwerd in 1969 ingewijd. Daarrond kwamen in de jaren 1970–1980\\nverschillende woonblokken. Het kerkmeubilair en de kunstwerken\\nwaren beïnvloed door de Pro Artes-Christiana beweging. Deze stroming wou vernieuwing brengen in de religieuze kunst in Vlaanderen.",
+            "description":"De wijk Nieuw Gent ontwikkelde zich vanaf de jaren 1960. De kerk werd in 1969 ingewijd. Daarrond kwamen in de jaren 1970–1980 verschillende woonblokken. Het kerkmeubilair en de kunstwerken waren beïnvloed door de Pro Artes-Christiana beweging. Deze stroming wou vernieuwing brengen in de religieuze kunst in Vlaanderen.",
             "category":[
                "Naoorlogs modernisme"
             ],
@@ -2795,7 +2795,7 @@
                },
                "address":{
                   "value":"Rerum-Novarumplein",
-                  "postal":"9000.0",
+                  "postal":"9000",
                   "city":"Gent (Nieuw Gent)"
                }
             },
