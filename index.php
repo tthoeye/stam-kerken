@@ -69,7 +69,7 @@
         <div data-role="page" id="page2" class="page">
 
             <header data-role="header" data-posistion="fixed" data-id="constantNav">
-                <span class="ui-title">Kerken</span>
+                <span class="ui-title">Kerken in Gent</span>
 
                 <a href="" data-icon="back" data-iconpos="notext" data-theme="a" title="Back" data-rel="back" class="ui-btn-right">&nbsp;</a>
                 <div data-role="navbar" class="navbar">
